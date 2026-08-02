@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T15:26:25",
+  "last_updated": "2026-08-02T15:27:06",
   "html": {
     "https://web.archive.org/web/20251123164253if_/https://twitter.com/Mumula379528/status/1992634973237780668": {
       "status": "done",
@@ -8762,18 +8762,18 @@
       "referenced_by": [
         "20260104152632_twitter_com_Mumula379528_status_2007836050778169455.json"
       ],
-      "last_updated": "2026-08-02T15:08:37",
+      "last_updated": "2026-08-02T15:26:48",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260104152632/https://video.twimg.com/amplify_video/2007830540951633920/vid/avc1/720x960/xH-cmxzS5BgQzaAM.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/G94Pazha0AEyFOZ.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260105211433_twitter_com_Mumula379528_status_2008286019053924629.json"
       ],
-      "last_updated": "2026-08-02T15:08:37",
+      "last_updated": "2026-08-02T15:26:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260105211433/https://video.twimg.com/tweet_video/G94Pazha0AEyFOZ.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2008483570680295430/vid/avc1/540x960/XTrFurjWQLgzSfmD.mp4": {
       "status": "done",
@@ -8801,9 +8801,9 @@
       "referenced_by": [
         "20260209162046_twitter_com_Mumula379528_status_2020895659587731782.json"
       ],
-      "last_updated": "2026-08-02T15:08:39",
+      "last_updated": "2026-08-02T15:26:52",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260209162046/https://video.twimg.com/amplify_video/2020889038979514368/vid/avc1/1080x1920/oQazxMjDugt-1HfO.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2037905797494317056/vid/avc1/1280x720/PeW5MZ15jp_kpvbD.mp4": {
       "status": "done",
@@ -8813,22 +8813,22 @@
       "last_updated": "2026-08-02T14:47:44"
     },
     "https://video.twimg.com/amplify_video/2038603044817137664/vid/avc1/720x1280/Gf6fQfB7119UCV-7.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260330173306_twitter_com_Mumula379528_status_2038670867647852761.json"
       ],
-      "last_updated": "2026-08-02T15:08:38",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260330173306/https://video.twimg.com/amplify_video/2038603044817137664/vid/avc1/720x1280/Gf6fQfB7119UCV-7.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T15:26:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330173306if_/https://video.twimg.com/amplify_video/2038603044817137664/vid/avc1/720x1280/Gf6fQfB7119UCV-7.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f648a48cd10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2043005427395522560/vid/avc1/720x1280/zFgPtgQcaGuzvU5e.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260411163900_twitter_com_Mumula379528_status_2043005909182615734.json"
       ],
-      "last_updated": "2026-08-02T14:47:47",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260411163900/https://video.twimg.com/amplify_video/2043005427395522560/vid/avc1/720x1280/zFgPtgQcaGuzvU5e.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-02T15:27:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411163900im_/https://video.twimg.com/amplify_video/2043005427395522560/vid/avc1/720x1280/zFgPtgQcaGuzvU5e.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f648a458890>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2043207104421642240/vid/avc1/720x1280/4OFcceOc4JC-M4pz.mp4": {
       "status": "done",
@@ -8852,13 +8852,13 @@
       "last_updated": "2026-08-02T14:47:44"
     },
     "https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/720x1280/ozUYFg_AtkmFzioJ.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260713185621_twitter_com_Mumula379528_status_2076742544009077152.json"
       ],
-      "last_updated": "2026-08-02T14:47:47",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260713185621/https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/720x1280/ozUYFg_AtkmFzioJ.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-08-02T15:27:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260713185621im_/https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/720x1280/ozUYFg_AtkmFzioJ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f648afe0620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     }
   },
   "avatars": {
@@ -24438,7 +24438,7 @@
       "last_updated": "2026-08-02T14:48:23"
     },
     "20260411163900_twitter_com_Mumula379528_status_2043005909182615734.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -24449,7 +24449,7 @@
           "https://pbs.twimg.com/profile_images/2040699221670862849/B_YEJ4li_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T14:48:21"
+      "last_updated": "2026-08-02T15:27:01"
     },
     "20260411182126_twitter_com_Mumula379528_status_2043031685751803916.json": {
       "status": "done",
@@ -30226,7 +30226,7 @@
       "last_updated": "2026-08-02T14:48:05"
     },
     "20260713185621_twitter_com_Mumula379528_status_2076742544009077152.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -30238,7 +30238,7 @@
           "https://pbs.twimg.com/profile_images/2075143165116559361/Euki-UME_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T14:48:27"
+      "last_updated": "2026-08-02T15:27:06"
     },
     "20260713190636_twitter_com_Mumula379528_status_2076745124718268459.json": {
       "status": "done",
