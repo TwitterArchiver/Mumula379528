@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1991950497356652979",
+    "created_at": "2025-11-22T08:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992155665947939302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576700645209346048",
+          "start": 0,
+          "username": "wshngknshji1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992155665947939302",
+    "in_reply_to_user_id": "1576700645209346048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991950497356652979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wshngknshji1 真正维护日本的形象应该是勇于承担责任正视历史与世界交好，如果维护形象只是停留在外表的层面那未免让人感到肤浅和惋惜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1991950492797480960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TUa11bsAA9Ibe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1991950497356652979",
+        "created_at": "2025-11-22T08:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992155665947939302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576700645209346048",
+              "start": 0,
+              "username": "wshngknshji1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992155665947939302",
+        "in_reply_to_user_id": "1576700645209346048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991950497356652979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wshngknshji1 真正维护日本的形象应该是勇于承担责任正视历史与世界交好，如果维护形象只是停留在外表的层面那未免让人感到肤浅和惋惜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991950492797480960"
+          ]
+        },
+        "author_id": "1576700645209346048",
+        "conversation_id": "1991950497356652979",
+        "created_at": "2025-11-21T19:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T20:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991950497356652979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ro7zrRaCHt",
+              "end": 149,
+              "expanded_url": "https://x.com/wshngknshji1/status/1991950497356652979/photo/1",
+              "media_key": "3_1991950492797480960",
+              "start": 126,
+              "url": "https://t.co/Ro7zrRaCHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991950497356652979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这样的高市早苗，谁不喜欢呢？\n\n准备出发去南非参加G20峰会的高市早苗发了这样一篇文章。\n\n“昨天我被允许休息一天，收拾行李准备出差，但我却为穿什么衣服而纠结了很久……\n\n11月14日，参议员安藤丰在参议院预算委员会发表的讲话一直在我脑海中挥之不去。\n\n他说，从今以后，高市首相和其他内阁成员将不得不与世界各国领导人进行谈判。我希望他们尽可能穿着由日本最优秀的工匠用最好的面料制作的服装进行外交谈判。如果他们穿着廉价的衣服，将会受到轻视的。\n\n可我没有用日本最好的面料或由日本最好的工匠制作的衣服，但我感觉安藤先生的观点很有道理，所以我花了几个小时，从干洗店拿回来的一大堆衣服里，挑选看起来不廉价、感觉不会让人瞧不起我的衣服。\n\n最后，我手头还是没带多少衣服，只是打包了大家都很熟悉的夹克和连衣裙组合。\n\n我可能得特意去买些衣服了，以便在外交谈判中维护日本国的形象。”\n……\n\n就像一个邻家姐姐：亲民，不做作，愿意听取他人建议，把国家放在首位。\n\n这样的首相，日本人不喜欢才怪呢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 232611,
+          "like_count": 1253,
+          "quote_count": 6,
+          "reply_count": 152,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "这样的高市早苗，谁不喜欢呢？\n\n准备出发去南非参加G20峰会的高市早苗发了这样一篇文章。\n\n“昨天我被允许休息一天，收拾行李准备出差，但我却为穿什么衣服而纠结了很久……\n\n11月14日，参议员安藤丰在参议院预算委员会发表的讲话一直在我脑海中挥之不去。 https://t.co/Ro7zrRaCHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T22:28:57.000Z",
+        "description": "小本生意，温和右派。讲真实的事，做真诚的人。欢迎订阅YouTube频道《海阔天空看世界》。https://t.co/3YsLh9J4jA。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC66lU…",
+                "end": 68,
+                "expanded_url": "https://youtube.com/channel/UC66lUaU_yWh_fgznYq6ovYw?si=Ot6YgufRnkwtHBd1",
+                "start": 45,
+                "url": "https://t.co/3YsLh9J4jA"
+              }
+            ]
+          }
+        },
+        "id": "1576700645209346048",
+        "name": "海阔天空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837600023133196288/_C6sr5xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42418,
+          "following_count": 5068,
+          "like_count": 80865,
+          "listed_count": 171,
+          "media_count": 2039,
+          "tweet_count": 14825
+        },
+        "username": "wshngknshji1",
+        "verified": true
+      }
+    ]
+  }
+}

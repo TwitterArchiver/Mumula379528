@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2043269345057583391",
+    "created_at": "2026-04-12T19:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043417409068159269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1774457414827618304",
+          "start": 0,
+          "username": "BTC_Gusta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043417409068159269",
+    "in_reply_to_user_id": "1774457414827618304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043269345057583391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC_Gusta 其实这1亿人里至少有80%除了看r18什么都不关心，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2043269345057583391",
+        "created_at": "2026-04-12T19:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043417409068159269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1774457414827618304",
+              "start": 0,
+              "username": "BTC_Gusta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043417409068159269",
+        "in_reply_to_user_id": "1774457414827618304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043269345057583391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC_Gusta 其实这1亿人里至少有80%除了看r18什么都不关心，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774457414827618304",
+        "conversation_id": "2043269345057583391",
+        "created_at": "2026-04-12T10:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043269345057583391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043269345057583391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知識：很多人都知道中國人需要VPN翻牆瀏覽外網，那你知道到全中國12億人口\n翻牆過的人數是多少嗎？\n8000萬至1.1億左右\n\n很難想像這麼多大陸人甚至不知道中國共產黨做了什麼壞事 每天發生了多少不合理對待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 514,
+          "like_count": 2471,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 740
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T15:23:58.000Z",
+        "description": "Entered the crypto world in 2010 with $3,000 || Sharing crypto insights || Nothing is financial advice || Occasionally share life, food, and current events",
+        "id": "1774457414827618304",
+        "location": "地球村",
+        "name": "Crypto_10x",
+        "pinned_tweet_id": "1931922294202634511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935695325538254848/mBhRudgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1573,
+          "like_count": 14656,
+          "listed_count": 11,
+          "media_count": 683,
+          "tweet_count": 3981
+        },
+        "username": "BTC_Gusta",
+        "verified": true
+      }
+    ]
+  }
+}

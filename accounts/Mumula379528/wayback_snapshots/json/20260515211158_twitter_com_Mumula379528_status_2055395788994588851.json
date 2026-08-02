@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2055298010083688503",
+    "created_at": "2026-05-15T21:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T22:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055395788994588851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007104134466736129",
+          "start": 0,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055395788994588851",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055298010083688503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peipeimao 抱抱。在他们眼里姐姐的痛苦远没有他们的自私重要。他们只是把姐姐当作某种窥视的介质…抱抱姐姐。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055297991788105728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXiolQakAAL20P.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2055298010083688503",
+        "created_at": "2026-05-15T21:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T22:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055395788994588851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055395788994588851",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055298010083688503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 抱抱。在他们眼里姐姐的痛苦远没有他们的自私重要。他们只是把姐姐当作某种窥视的介质…抱抱姐姐。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055297991788105728"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2055298010083688503",
+        "created_at": "2026-05-15T14:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055298010083688503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPpH7Vv6bR",
+              "end": 37,
+              "expanded_url": "https://x.com/peipeimao/status/2055298010083688503/photo/1",
+              "media_key": "3_2055297991788105728",
+              "start": 14,
+              "url": "https://t.co/LPpH7Vv6bR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055298010083688503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1458,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你们为什么不承认我的痛苦 https://t.co/LPpH7Vv6bR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n亲爱的姐姐/一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2051701346122752083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 582,
+          "like_count": 2829,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 905
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n128好友位日常陪聊/520我爱你/1314电子女友",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053490714286444544/9yOeSN-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 172,
+          "like_count": 622,
+          "listed_count": 13,
+          "media_count": 96,
+          "tweet_count": 1786
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

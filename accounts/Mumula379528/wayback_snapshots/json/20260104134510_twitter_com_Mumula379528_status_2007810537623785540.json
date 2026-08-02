@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2006609906976403835",
+    "created_at": "2026-01-04T13:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T14:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007810537623785540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007810537623785540",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006609906976403835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 看着急了…女孩子好敬业…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24264,
+        "height": 640,
+        "media_key": "13_2006609848402866176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006609848402866176/img/nBVumElh1RmFdVod.jpg",
+        "public_metrics": {
+          "view_count": 50617
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006609848402866176/vid/avc1/320x574/puAt3adISQxuy3MK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006609848402866176/vid/avc1/356x640/oz5R108PuPgijNJu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006609848402866176/pl/KR7pvmx3kWJrcZmr.m3u8"
+          }
+        ],
+        "width": 356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2006609906976403835",
+        "created_at": "2026-01-04T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007810537623785540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007810537623785540",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006609906976403835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 看着急了…女孩子好敬业…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006609848402866176"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2006609906976403835",
+        "created_at": "2026-01-01T06:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006609906976403835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GU8QJSrK4R",
+              "end": 30,
+              "expanded_url": "https://x.com/lover_ning/status/2006609906976403835/video/1",
+              "media_key": "13_2006609848402866176",
+              "start": 7,
+              "url": "https://t.co/GU8QJSrK4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006609906976403835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 110919,
+          "like_count": 507,
+          "quote_count": 13,
+          "reply_count": 61,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "好善良的女生 https://t.co/GU8QJSrK4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 333,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 278
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265510,
+          "following_count": 102,
+          "like_count": 33003,
+          "listed_count": 466,
+          "media_count": 3371,
+          "tweet_count": 28359
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

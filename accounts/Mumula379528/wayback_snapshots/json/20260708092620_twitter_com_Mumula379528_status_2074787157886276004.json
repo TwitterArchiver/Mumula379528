@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074787157886276004",
+    "created_at": "2026-07-08T09:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074787157886276004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Belchic7/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Belchic7/status/2074682405915603359",
+          "start": 11,
+          "url": "https://t.co/CYNjg54cW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074787157886276004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074682405915603359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮好喜欢好想要… https://t.co/CYNjg54cW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2074682403222917120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrAp1HbEAAC18P.jpg",
+        "width": 1305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074787157886276004",
+        "created_at": "2026-07-08T09:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074787157886276004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Belchic7/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Belchic7/status/2074682405915603359",
+              "start": 11,
+              "url": "https://t.co/CYNjg54cW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074787157886276004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074682405915603359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮好喜欢好想要… https://t.co/CYNjg54cW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074682403222917120"
+          ]
+        },
+        "author_id": "1110966399801790464",
+        "conversation_id": "2074682405915603359",
+        "created_at": "2026-07-08T02:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074682405915603359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RHsnrqj5x",
+              "end": 39,
+              "expanded_url": "https://x.com/Belchic7/status/2074682405915603359/photo/1",
+              "media_key": "3_2074682403222917120",
+              "start": 16,
+              "url": "https://t.co/6RHsnrqj5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074682405915603359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 9335,
+          "like_count": 279,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "🦇🥀吸血姫のゴシックドレス🥀🦇 https://t.co/6RHsnrqj5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿我们彼此相爱。\n因此请毫无负担的和我说任何吧。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 611,
+          "like_count": 3137,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-27T18:06:45.000Z",
+        "description": "Belchic公式Twitter❤︎|20000円以上〜のご購入でもらえる数量限定ノベルティフェア開催中🧸| 《商標登録済みブランド》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "belchic.xsrv.jp/cz/vxFHz",
+                "end": 23,
+                "expanded_url": "http://belchic.xsrv.jp/cz/vxFHz",
+                "start": 0,
+                "url": "https://t.co/9ssNVfJSEq"
+              }
+            ]
+          }
+        },
+        "id": "1110966399801790464",
+        "location": "公式Webサイトはこちら♡",
+        "name": "Belchic",
+        "pinned_tweet_id": "2008780769246707886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288001065661521920/9138XXeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274409,
+          "following_count": 2,
+          "like_count": 2569,
+          "listed_count": 2058,
+          "media_count": 82853,
+          "tweet_count": 110685
+        },
+        "url": "https://t.co/9ssNVfJSEq",
+        "username": "Belchic7",
+        "verified": true
+      }
+    ]
+  }
+}

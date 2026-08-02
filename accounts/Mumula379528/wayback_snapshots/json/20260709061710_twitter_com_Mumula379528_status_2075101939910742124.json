@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2075101774067925143",
+    "created_at": "2026-07-09T06:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075101939910742124"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075101939910742124",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075101774067925143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直在抽烟，四天抽了四包烟，马上拆第五包。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2075101774067925143",
+        "created_at": "2026-07-09T06:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075101939910742124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075101939910742124",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075101774067925143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直在抽烟，四天抽了四包烟，马上拆第五包。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2075101774067925143",
+        "created_at": "2026-07-09T06:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075101774067925143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075101774067925143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃药可是我要写论文和应付期末。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 630,
+          "like_count": 3257,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

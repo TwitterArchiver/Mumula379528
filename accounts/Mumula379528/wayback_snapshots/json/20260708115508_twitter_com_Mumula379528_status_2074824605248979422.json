@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074789849052381241",
+    "created_at": "2026-07-08T11:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074824605248979422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074824605248979422",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074789849052381241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 美味～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074789838948368384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsiXaYbgAAm0w_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074789849052381241",
+        "created_at": "2026-07-08T11:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074824605248979422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074824605248979422",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074789849052381241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 美味～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074789838948368384"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074789849052381241",
+        "created_at": "2026-07-08T09:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074789849052381241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOmrbWciF4",
+              "end": 25,
+              "expanded_url": "https://x.com/xixijun8827/status/2074789849052381241/photo/1",
+              "media_key": "3_2074789838948368384",
+              "start": 2,
+              "url": "https://t.co/TOmrbWciF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074789849052381241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/TOmrbWciF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿我们彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 613,
+          "like_count": 3147,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 69,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 46,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "location": "Uryu-cho, Hokkaidō",
+        "name": "无问",
+        "pinned_tweet_id": "2070813338951704920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 183,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

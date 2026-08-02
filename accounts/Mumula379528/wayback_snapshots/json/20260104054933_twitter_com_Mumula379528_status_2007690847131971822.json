@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007583461599785243",
+    "created_at": "2026-01-04T05:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007690847131971822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687060069056139265",
+          "start": 0,
+          "username": "DancerClas86815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007690847131971822",
+    "in_reply_to_user_id": "1687060069056139265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007583461599785243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DancerClas86815 好听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007583461599785243",
+        "created_at": "2026-01-04T05:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007690847131971822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687060069056139265",
+              "start": 0,
+              "username": "DancerClas86815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007690847131971822",
+        "in_reply_to_user_id": "1687060069056139265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007583461599785243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DancerClas86815 好听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687060069056139265",
+        "conversation_id": "2007583461599785243",
+        "created_at": "2026-01-03T22:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T23:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007583461599785243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《远方》，由 潘越云 演唱，收录于《回声 三毛作品第15号》专辑中，《远方》下载，《远方》在线试听，更多远方相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/Y1TqkrR",
+              "end": 35,
+              "expanded_url": "https://163cn.tv/Y1TqkrR",
+              "start": 12,
+              "status": 200,
+              "title": "远方 - 潘越云 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=283100&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=4005261488&playerUIModeId=1266007&app_version=9.3.90&dlt=0846",
+              "url": "https://t.co/pt7V6nXTaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007583461599785243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享潘越云的单曲《远方》https://t.co/pt7V6nXTaT (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 305,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 242
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T11:17:34.000Z",
+        "description": "🚪88/188",
+        "id": "1687060069056139265",
+        "location": "只是自己的死前的遗书账号",
+        "name": "少女地狱",
+        "pinned_tweet_id": "2005004474176475289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007228363514261504/t8Z3usTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 157
+        },
+        "username": "DancerClas86815",
+        "verified": false
+      }
+    ]
+  }
+}

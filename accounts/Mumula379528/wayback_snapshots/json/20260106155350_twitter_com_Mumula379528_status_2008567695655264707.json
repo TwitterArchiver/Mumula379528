@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2008461363124072672",
+    "created_at": "2026-01-06T15:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008567695655264707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1959602969034539008",
+          "start": 0,
+          "username": "taikongjile666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008567695655264707",
+    "in_reply_to_user_id": "1959602969034539008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008461363124072672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile666 🎉World Peace🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2008461363124072672",
+        "created_at": "2026-01-06T15:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008567695655264707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1959602969034539008",
+              "start": 0,
+              "username": "taikongjile666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008567695655264707",
+        "in_reply_to_user_id": "1959602969034539008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008461363124072672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile666 🎉World Peace🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959602969034539008",
+        "conversation_id": "2008461363124072672",
+        "created_at": "2026-01-06T08:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008461363124072672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008461363124072672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我方签署停战协议，对任何wiki不做评价，不做任何形式攻击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 407,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 370
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:05:35.000Z",
+        "description": "官方网站:https://t.co/B30SyYDC0Y\n交流群:https://t.co/S8Izp7ElMH\nDC交流群：https://t.co/eb9gzQ5ULX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/B30SyYDC0Y"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/S8Izp7ElMH"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/eb9gzQ5ULX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/VXvh5Uus8T"
+              }
+            ]
+          }
+        },
+        "id": "1959602969034539008",
+        "location": "天国",
+        "name": "太空极乐百科2.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008127469552119808/5U_rzOef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 69,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/VXvh5Uus8T",
+        "username": "taikongjile666",
+        "verified": false
+      }
+    ]
+  }
+}

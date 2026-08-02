@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2004466084712464559",
+    "created_at": "2025-12-27T10:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T11:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004857829572960272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579651217235378181",
+          "start": 0,
+          "username": "maomaomao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004857829572960272",
+    "in_reply_to_user_id": "1579651217235378181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004466084712464559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaomao520 首先必须提醒你，一个男性是否真的关注女性议题，不在于他看了多少女性议题的文本，或者多关心女性现状，而是在真正面对女性问题时能否把挥舞女性主义旗帜的旗子还给女性，请对关注女性议题的男性抱有十二分的警惕吧，通过亲和女性及女性议题来为自身谋利的男性比光明正大持有男性权力观的人更值得堤防"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004466077104066562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FLRuob0AImMCD.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2004466084712464559",
+        "created_at": "2025-12-27T10:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004857829572960272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579651217235378181",
+              "start": 0,
+              "username": "maomaomao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004857829572960272",
+        "in_reply_to_user_id": "1579651217235378181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004466084712464559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaomao520 首先必须提醒你，一个男性是否真的关注女性议题，不在于他看了多少女性议题的文本，或者多关心女性现状，而是在真正面对女性问题时能否把挥舞女性主义旗帜的旗子还给女性，请对关注女性议题的男性抱有十二分的警惕吧，通过亲和女性及女性议题来为自身谋利的男性比光明正大持有男性权力观的人更值得堤防"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004466077104066562"
+          ]
+        },
+        "author_id": "1579651217235378181",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004466084712464559",
+        "created_at": "2025-12-26T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004466084712464559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HMORr6Hdx",
+              "end": 53,
+              "expanded_url": "https://x.com/maomaomao520/status/2004466084712464559/photo/1",
+              "media_key": "3_2004466077104066562",
+              "start": 30,
+              "url": "https://t.co/4HMORr6Hdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004466084712464559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 247594,
+          "like_count": 399,
+          "quote_count": 17,
+          "reply_count": 123,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "当一个男的会关注女性议题，就是加分项。我永远会被这种人打动 https://t.co/4HMORr6Hdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 110,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T01:53:18.000Z",
+        "description": "我是年糕（四爱版）小宝：@doizung 。谢谢大家的关注！🚪88纯好友位聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "doizung"
+              }
+            ]
+          }
+        },
+        "id": "1579651217235378181",
+        "location": "距您3km",
+        "name": "超级无敌喵喵拳",
+        "pinned_tweet_id": "1996942547835670753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996936988608626688/K1UAfMlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 66,
+          "like_count": 1755,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2047
+        },
+        "username": "maomaomao520",
+        "verified": false
+      }
+    ]
+  }
+}

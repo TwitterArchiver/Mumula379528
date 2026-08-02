@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2052338452684034178",
+    "created_at": "2026-05-07T10:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052338452684034178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fcbayernen/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/fcbayernen/status/2052110079688642821",
+          "start": 10,
+          "url": "https://t.co/cB7v6XMb7U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052338452684034178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052110079688642821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "葡萄牙传统艺能呵呵 https://t.co/cB7v6XMb7U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2052338452684034178",
+        "created_at": "2026-05-07T10:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052338452684034178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fcbayernen/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/fcbayernen/status/2052110079688642821",
+              "start": 10,
+              "url": "https://t.co/cB7v6XMb7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052338452684034178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052110079688642821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "葡萄牙传统艺能呵呵 https://t.co/cB7v6XMb7U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2152685876",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2052110079688642821",
+        "created_at": "2026-05-06T19:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052110079688642821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052110079688642821",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 869,
+          "impression_count": 2875841,
+          "like_count": 73686,
+          "quote_count": 509,
+          "reply_count": 1940,
+          "retweet_count": 3584
+        },
+        "reply_settings": "everyone",
+        "text": "?!?!?!!??!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n亲爱的姐姐/一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2051701346122752083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 585,
+          "like_count": 2834,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 899
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-24T10:22:52.000Z",
+        "description": "The official English #FCBayern Twitter page! Deutsch @FCBayern / Español @FCBayernES / US @FCBayernUS / Arabic @FCBayernAR / Português @FCBayernBR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 21,
+                "tag": "FCBayern"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "FCBayern"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "FCBayernES"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "FCBayernUS"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "FCBayernAR"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "FCBayernBR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wonderl.ink/@fcbayern",
+                "end": 23,
+                "expanded_url": "https://wonderl.ink/@fcbayern",
+                "start": 0,
+                "url": "https://t.co/Pu1Qstiaso"
+              }
+            ]
+          }
+        },
+        "id": "2152685876",
+        "location": "Säbener Straße 51-57, Munich",
+        "name": "FC Bayern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846111201756934144/9ZZ3YHm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697942,
+          "following_count": 67,
+          "like_count": 3568,
+          "listed_count": 5130,
+          "media_count": 55729,
+          "tweet_count": 83661
+        },
+        "url": "https://t.co/Pu1Qstiaso",
+        "username": "FCBayernEN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007711184318021991",
+    "created_at": "2026-01-04T18:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T19:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007888660642075035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        },
+        {
+          "end": 27,
+          "id": "1883727989671944192",
+          "start": 12,
+          "username": "nimasilehiahia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007888660642075035",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007883933426528279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 @nimasilehiahia 我从不骂人～不好意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007711184318021991",
+        "created_at": "2026-01-04T18:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007888660642075035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            },
+            {
+              "end": 27,
+              "id": "1883727989671944192",
+              "start": 12,
+              "username": "nimasilehiahia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007888660642075035",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007883933426528279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 @nimasilehiahia 我从不骂人～不好意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2007711184318021991",
+        "created_at": "2026-01-04T18:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007883933426528279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            },
+            {
+              "end": 29,
+              "id": "1883727989671944192",
+              "start": 14,
+              "username": "nimasilehiahia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007883933426528279",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007729859607572525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 @nimasilehiahia 这叫弱智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 344,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 298
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞ 鏡よ鏡 正直割れたいか?@i7g9f0 我是老保 还是长得丑的顺直男",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "i7g9f0"
+              }
+            ]
+          }
+        },
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "バズバズ迷乱电波",
+        "pinned_tweet_id": "1999314334363844653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000908077730500611/b77tgiCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 199,
+          "like_count": 9031,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2949
+        },
+        "username": "Kallen0720",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "我真的是照片本人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "讨厌的人死了爹妈",
+        "pinned_tweet_id": "2006271335451017633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006271833587486720/JdqbtqJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11211,
+          "following_count": 1033,
+          "like_count": 20062,
+          "listed_count": 22,
+          "media_count": 1431,
+          "tweet_count": 12691
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "nimasilehiahia",
+        "verified": false
+      }
+    ]
+  }
+}

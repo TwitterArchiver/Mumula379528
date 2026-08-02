@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2004789217935982735",
+    "created_at": "2025-12-27T05:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004790141043568719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "151741879",
+          "start": 0,
+          "username": "CHIKAMI_EXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004790141043568719",
+    "in_reply_to_user_id": "151741879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004789217935982735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHIKAMI_EXP どうしたの、ダーリン？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2004789217935982735",
+        "created_at": "2025-12-27T05:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004790141043568719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "151741879",
+              "start": 0,
+              "username": "CHIKAMI_EXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004790141043568719",
+        "in_reply_to_user_id": "151741879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004789217935982735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHIKAMI_EXP どうしたの、ダーリン？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "151741879",
+        "conversation_id": "2004789217935982735",
+        "created_at": "2025-12-27T05:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004789217935982735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004789217935982735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ふむう・・もちっと絶望感が欲しいかなぁ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 108,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-04T03:59:55.000Z",
+        "description": "【CSゲーム会社】エクスペリエンスのしゃっちょ。千頭元（ちかみはじめ）黄泉ヲ裂ク華。モン勇。モンカル。死印。ＮＧ。死噛。デモンキルデモン。死印リブート。\nEXP情報▶　https://t.co/RY7LbzITBH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/exp_promo/n/ne…",
+                "end": 107,
+                "expanded_url": "https://note.com/exp_promo/n/nee33ed1d941f",
+                "start": 84,
+                "url": "https://t.co/RY7LbzITBH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "experience.co.jp",
+                "end": 23,
+                "expanded_url": "https://experience.co.jp/",
+                "start": 0,
+                "url": "https://t.co/98jHPlypan"
+              }
+            ]
+          }
+        },
+        "id": "151741879",
+        "location": "採用情報【1日6時間　新卒３０万～】",
+        "name": "モンカル発売中＠しゃっちょ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004072583332024320/mGewVLyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11441,
+          "following_count": 5368,
+          "like_count": 20060,
+          "listed_count": 265,
+          "media_count": 6371,
+          "tweet_count": 237205
+        },
+        "url": "https://t.co/98jHPlypan",
+        "username": "CHIKAMI_EXP",
+        "verified": true
+      }
+    ]
+  }
+}

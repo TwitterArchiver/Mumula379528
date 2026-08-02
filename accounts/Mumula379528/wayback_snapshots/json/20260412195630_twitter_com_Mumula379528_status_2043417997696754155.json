@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2042884826706121121",
+    "created_at": "2026-04-12T19:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043417997696754155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038300113920249857",
+          "start": 0,
+          "username": "bibibibib1470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043417997696754155",
+    "in_reply_to_user_id": "2038300113920249857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042887128980558064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibibib1470 哼哼哼你总是很捧暮暮的场呀谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2042884826706121121",
+        "created_at": "2026-04-12T19:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043417997696754155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038300113920249857",
+              "start": 0,
+              "username": "bibibibib1470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043417997696754155",
+        "in_reply_to_user_id": "2038300113920249857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042887128980558064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibibib1470 哼哼哼你总是很捧暮暮的场呀谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038300113920249857",
+        "conversation_id": "2042884826706121121",
+        "created_at": "2026-04-11T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042887128980558064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042887128980558064",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042884826706121121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 收到🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 515,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 742
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T17:00:59.000Z",
+        "description": "想和别人聊天，任何人都可以（不聊H）\n别一进来就骂我😮‍💨\n一般都在😎",
+        "id": "2038300113920249857",
+        "name": "Hai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038440194194735104/BR4Z6k2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 425
+        },
+        "username": "bibibibib1470",
+        "verified": false
+      }
+    ]
+  }
+}

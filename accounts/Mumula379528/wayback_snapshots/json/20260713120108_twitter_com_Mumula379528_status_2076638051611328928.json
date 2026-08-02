@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2076631364049481974",
+    "created_at": "2026-07-13T12:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076638051611328928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007064047255207937",
+          "start": 0,
+          "username": "Ayin886030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076638051611328928",
+    "in_reply_to_user_id": "2007064047255207937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076631364049481974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayin886030 那很幸福了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076630422205964289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGsXdVbIAE83_a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2076631364049481974",
+        "created_at": "2026-07-13T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076638051611328928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007064047255207937",
+              "start": 0,
+              "username": "Ayin886030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076638051611328928",
+        "in_reply_to_user_id": "2007064047255207937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076631364049481974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayin886030 那很幸福了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076630422205964289"
+          ]
+        },
+        "author_id": "2007064047255207937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076631364049481974",
+        "created_at": "2026-07-13T11:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076631364049481974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUDa7EM0XY",
+              "end": 35,
+              "expanded_url": "https://x.com/Ayin886030/status/2076631364049481974/photo/1",
+              "media_key": "3_2076630422205964289",
+              "start": 12,
+              "url": "https://t.co/wUDa7EM0XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631364049481974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的有一块钱的棉花糖吗 https://t.co/wUDa7EM0XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@bdsmbratttt\n小白华@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "bdsmbratttt"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Ayin886030"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 653,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:19:18.000Z",
+        "description": "称呼白华就好。她是前台。\n性少数友好 欢迎互fo交友\n¯\\_(ツ)_/¯\nhttps://t.co/Z0om3KWmNI\n💙喜欢@_Axer1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "_Axer1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ayin886030",
+                "end": 60,
+                "expanded_url": "https://t.me/ayin886030",
+                "start": 37,
+                "url": "https://t.co/Z0om3KWmNI"
+              }
+            ]
+          }
+        },
+        "id": "2007064047255207937",
+        "name": "birch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068336165028241408/u6qP9BJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 145,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "Ayin886030",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074837240321118209"
+      ],
+      "media_source_tweet_id": [
+        "2074837248067932610"
+      ]
+    },
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Soccer action from the German Bundesliga.",
+          "id": "10039036407",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039215494",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2074838776527110586",
+    "created_at": "2026-07-08T12:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074838776527110586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2152685876",
+          "start": 3,
+          "username": "FCBayernEN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMoKe3qBEJ",
+          "end": 41,
+          "expanded_url": "https://x.com/FCBayernEN/status/2074837248067932610/photo/1",
+          "media_key": "3_2074837240321118209",
+          "start": 18,
+          "url": "https://t.co/yMoKe3qBEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074838776527110586",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074837248067932610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FCBayernEN: 😤 https://t.co/yMoKe3qBEJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2074837240321118209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtNeiQXkAE3ZAj.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074837240321118209"
+          ],
+          "media_source_tweet_id": [
+            "2074837248067932610"
+          ]
+        },
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2074838776527110586",
+        "created_at": "2026-07-08T12:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074838776527110586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2152685876",
+              "start": 3,
+              "username": "FCBayernEN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMoKe3qBEJ",
+              "end": 41,
+              "expanded_url": "https://x.com/FCBayernEN/status/2074837248067932610/photo/1",
+              "media_key": "3_2074837240321118209",
+              "start": 18,
+              "url": "https://t.co/yMoKe3qBEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074838776527110586",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074837248067932610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FCBayernEN: 😤 https://t.co/yMoKe3qBEJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074837240321118209"
+          ]
+        },
+        "author_id": "2152685876",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2074837248067932610",
+        "created_at": "2026-07-08T12:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074837248067932610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMoKe3qBEJ",
+              "end": 25,
+              "expanded_url": "https://x.com/FCBayernEN/status/2074837248067932610/photo/1",
+              "media_key": "3_2074837240321118209",
+              "start": 2,
+              "url": "https://t.co/yMoKe3qBEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074837248067932610",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5531,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "😤 https://t.co/yMoKe3qBEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 613,
+          "like_count": 3164,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1048
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-24T10:22:52.000Z",
+        "description": "The official English #FCBayern Twitter page! Deutsch @FCBayern / Español @FCBayernES / US @FCBayernUS / Arabic @FCBayernAR / Português @FCBayernBR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 21,
+                "tag": "FCBayern"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "FCBayern"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "FCBayernES"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "FCBayernUS"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "FCBayernAR"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "FCBayernBR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wonderl.ink/@fcbayern",
+                "end": 23,
+                "expanded_url": "https://wonderl.ink/@fcbayern",
+                "start": 0,
+                "url": "https://t.co/Pu1QstiIhW"
+              }
+            ]
+          }
+        },
+        "id": "2152685876",
+        "location": "Säbener Straße 51-57, Munich",
+        "name": "FC Bayern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846111201756934144/9ZZ3YHm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732968,
+          "following_count": 67,
+          "like_count": 3569,
+          "listed_count": 5160,
+          "media_count": 56588,
+          "tweet_count": 84585
+        },
+        "url": "https://t.co/Pu1QstiIhW",
+        "username": "FCBayernEN",
+        "verified": true
+      }
+    ]
+  }
+}

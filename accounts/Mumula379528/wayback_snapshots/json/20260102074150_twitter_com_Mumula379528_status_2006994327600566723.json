@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2006678755826348252",
+    "created_at": "2026-01-02T07:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T08:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006994327600566723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677673534607466497",
+          "start": 0,
+          "username": "qeiyeu7777"
+        },
+        {
+          "end": 21,
+          "id": "1811057149805834241",
+          "start": 12,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006994327600566723",
+    "in_reply_to_user_id": "1677673534607466497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006897678115115029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qeiyeu7777 @Tarimarl 这些声音如果调教的好感觉确实会很好听（已严肃思索"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2006678755826348252",
+        "created_at": "2026-01-02T07:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T08:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006994327600566723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677673534607466497",
+              "start": 0,
+              "username": "qeiyeu7777"
+            },
+            {
+              "end": 21,
+              "id": "1811057149805834241",
+              "start": 12,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006994327600566723",
+        "in_reply_to_user_id": "1677673534607466497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006897678115115029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qeiyeu7777 @Tarimarl 这些声音如果调教的好感觉确实会很好听（已严肃思索"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677673534607466497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2006678755826348252",
+        "created_at": "2026-01-02T01:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006897678115115029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006897678115115029",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1288,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006678755826348252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl 现在的音乐都是一堆工业化废品，我只听森林古猿木棒敲击石头的声音和nasa接收的宇宙电波。感觉不如霸王龙磨牙、原始人吹骨笛、太阳耀斑的高频射电噪音、分子热运动的布尔朗姆噪声。这才是生命和宇宙最原始的基音。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 253,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 166
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T13:38:47.000Z",
+        "description": "Mementomori",
+        "id": "1677673534607466497",
+        "location": "水星（suisei）",
+        "name": "qeuyei",
+        "pinned_tweet_id": "1942593764540965339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984664701532585984/jd1o_teP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 166,
+          "like_count": 13014,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3058
+        },
+        "username": "qeiyeu7777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "全速向后前进！",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟​",
+        "name": "Tarimar_Unofficial",
+        "pinned_tweet_id": "1975380698300314041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004395872407506946/8ZvCZgUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 569,
+          "like_count": 11774,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 4040
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

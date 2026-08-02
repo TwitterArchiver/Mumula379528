@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2043299592826229089",
+    "created_at": "2026-04-12T19:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043415631652131014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        },
+        {
+          "end": 23,
+          "id": "1390652924481527810",
+          "start": 9,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 36,
+          "id": "1432723332760104960",
+          "start": 24,
+          "username": "AeglePotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043415631652131014",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043339839005917690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo @zqtlovekris99 @AeglePotato 这也是从来没有人关注过大家为什么会od，为什么要逃避，为什么不关注大家经历了什么，只是一味的强调“你的行为是错误的”。实际上结构所在意的是你的劳动力，你的生产价值，至于你是否有为人的尊严，自由的意志，那不在考虑范围之内。\n只是最大程度保证社会机器备用零件的完好。一种纯粹的工具理性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2043299592826229089",
+        "created_at": "2026-04-12T19:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043415631652131014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            },
+            {
+              "end": 23,
+              "id": "1390652924481527810",
+              "start": 9,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 36,
+              "id": "1432723332760104960",
+              "start": 24,
+              "username": "AeglePotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043415631652131014",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043339839005917690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo @zqtlovekris99 @AeglePotato 这也是从来没有人关注过大家为什么会od，为什么要逃避，为什么不关注大家经历了什么，只是一味的强调“你的行为是错误的”。实际上结构所在意的是你的劳动力，你的生产价值，至于你是否有为人的尊严，自由的意志，那不在考虑范围之内。\n只是最大程度保证社会机器备用零件的完好。一种纯粹的工具理性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2043299592826229089",
+        "created_at": "2026-04-12T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043339839005917690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 27,
+              "id": "1432723332760104960",
+              "start": 15,
+              "username": "AeglePotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043339839005917690",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043299592826229089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @AeglePotato 一直如此认为，要么大家一起认知到自己存在吸毒行为包括熬夜玩手机等等一切常见不常见的危害成瘾，总之不要一边讽刺别人吸毒一边觉得熬夜/喝酒/抽烟/网瘾/性瘾不是一种成瘾不是一种精神或肉体的吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 514,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 737
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo随缘回-ban也随缘回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（别fo了回不过来了orz）",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 2211,
+          "like_count": 9499,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 7840
+        },
+        "username": "Numiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @nktblovekris99\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11903,
+          "following_count": 1460,
+          "like_count": 25116,
+          "listed_count": 16,
+          "media_count": 4557,
+          "tweet_count": 27345
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-31T15:14:04.000Z",
+        "description": "可以叫我Allice，喜欢一切异常的人和事/猎奇&od&餐卷&精神疾病&退游人士&多意识可互fo/平时不说话，只会大量转发个人喜欢的画作/⚠️巨大多精神病推文注意⚠️\n\n/Can read CHN/ENG/JPN/YUE. Can speak CHN/ENG/YUE",
+        "id": "1432723332760104960",
+        "name": "ALLsnowBALL☃️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739373512945459200/xOaMKbog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 97,
+          "like_count": 11625,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 2817
+        },
+        "username": "AeglePotato",
+        "verified": false
+      }
+    ]
+  }
+}

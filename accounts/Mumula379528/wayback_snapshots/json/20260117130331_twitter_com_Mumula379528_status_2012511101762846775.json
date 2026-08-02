@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2012436625398398986",
+    "created_at": "2026-01-17T13:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012511101762846775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558684370386399232",
+          "start": 0,
+          "username": "Deus722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012511101762846775",
+    "in_reply_to_user_id": "1558684370386399232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012436625398398986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deus722 缓慢的打出一个？。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2012436625398398986",
+        "created_at": "2026-01-17T13:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012511101762846775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558684370386399232",
+              "start": 0,
+              "username": "Deus722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012511101762846775",
+        "in_reply_to_user_id": "1558684370386399232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012436625398398986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deus722 缓慢的打出一个？。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558684370386399232",
+        "conversation_id": "2012436625398398986",
+        "created_at": "2026-01-17T08:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012436625398398986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012436625398398986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对象是鸡哥梦男…他过生日非要印个鸡哥在蛋糕上，无力阻止。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 431,
+          "like_count": 2075,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 512
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T05:18:15.000Z",
+        "description": "媚黑恋父恋母恋童鸡奸群交的负债婊子一枚｜深爱每个操过我的人｜我是屠美丽",
+        "id": "1558684370386399232",
+        "location": "呵呵",
+        "name": "yoshi",
+        "pinned_tweet_id": "2007811269735358640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685553474875394/FkiYX51u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 419,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2875
+        },
+        "username": "Deus722",
+        "verified": false
+      }
+    ]
+  }
+}

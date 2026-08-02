@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2008484711358959670",
+    "created_at": "2026-01-06T10:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008485921109537076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1450054325481312261",
+          "start": 0,
+          "username": "aus_mini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008485921109537076",
+    "in_reply_to_user_id": "1450054325481312261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008484711358959670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aus_mini 这也能拐到中共…只能说媒体还是太煞费苦心了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29651,
+        "height": 960,
+        "media_key": "13_2008483570680295430",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008483570680295430/img/HF2X5D85c1O0mG09.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008483570680295430/vid/avc1/320x568/elxe8D2ZWhFqjLZz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008483570680295430/vid/avc1/480x852/OZFsdnwpOmaXGw8a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008483570680295430/vid/avc1/540x960/XTrFurjWQLgzSfmD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008483570680295430/pl/N2anQjTONMyT_vUq.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2008484711358959670",
+        "created_at": "2026-01-06T10:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008485921109537076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1450054325481312261",
+              "start": 0,
+              "username": "aus_mini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008485921109537076",
+        "in_reply_to_user_id": "1450054325481312261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008484711358959670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aus_mini 这也能拐到中共…只能说媒体还是太煞费苦心了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008483570680295430"
+          ]
+        },
+        "author_id": "1450054325481312261",
+        "conversation_id": "2008484711358959670",
+        "created_at": "2026-01-06T10:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008484711358959670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNM2RrJAoh",
+              "end": 178,
+              "expanded_url": "https://x.com/aus_mini/status/2008484711358959670/video/1",
+              "media_key": "13_2008483570680295430",
+              "start": 155,
+              "url": "https://t.co/wNM2RrJAoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008484711358959670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "💥马杜罗被活捉，中共也有责任？\n中共曾宣称 YLC-8E 反隐身雷达是“世界最强”，可探测顶级隐身战机。\n独裁者马杜罗曾购买该系统，用于防御美国对加拉加斯的空袭。\n结果马杜罗被活捉！\n\n据称，驻委内瑞拉的中国军事顾问对此感到震惊。\n\n委内瑞拉约在 2023 年从中国电子科技集团（CETC）引进 YLC-8E 雷达，作为深化双边军事合作的一部分。\n\n由于维护问题，其雷达网络中超过 60% 早已无法运作，在面对美军电子战与隐身无人机时进一步加速崩溃。\n\n2025 年在巴基斯坦，该系统也在未能发现来袭战机的情况下，被印度空军打击摧毁。\n\n《简氏防务周刊》的同行评审分析指出，YLC-8E 在对抗 F-35 等先进隐身目标时，其低虚警率与可靠性存疑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "💥马杜罗被活捉，中共也有责任？\n中共曾宣称 YLC-8E 反隐身雷达是“世界最强”，可探测顶级隐身战机。\n独裁者马杜罗曾购买该系统，用于防御美国对加拉加斯的空袭。\n结果马杜罗被活捉！\n\n据称，驻委内瑞拉的中国军事顾问对此感到震惊。\n\n委内瑞拉约在 2023 年从中国电子科技集团（CETC）引进 YLC-8E https://t.co/wNM2RrJAoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 364,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 348
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T11:01:32.000Z",
+        "description": "POWER TO WE THE PEOPLE  分享热点新闻，关注疫苗危害， 自然疗法和解药  MAGA",
+        "id": "1450054325481312261",
+        "name": "AusMini",
+        "pinned_tweet_id": "1612621862206582785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733428523661238272/JovovqRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38361,
+          "following_count": 7604,
+          "like_count": 65245,
+          "listed_count": 128,
+          "media_count": 10896,
+          "tweet_count": 26927
+        },
+        "username": "aus_mini",
+        "verified": true
+      }
+    ]
+  }
+}

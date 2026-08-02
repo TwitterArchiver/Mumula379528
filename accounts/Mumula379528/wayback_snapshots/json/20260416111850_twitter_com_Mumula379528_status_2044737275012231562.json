@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2044732903687696495",
+    "created_at": "2026-04-16T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044737275012231562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044737275012231562",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044736001986506814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 经济独立是精神独立的前提这样的话，无外乎是站在私有制和物物质基础的共同逻辑下用“金钱的律法”对试图自由的人进行的规训而已，因为精神自由不利于任何形式的“统治”，所以永远希望更多人低俗的追求钱权财色，这样社会就会更容易趋于稳定，因为你追求这些东西就不得不更大程度上在既定的规则里奋斗"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [432Ifantrygroup].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "432Ifantrygroup",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "432Ifantrygroup"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1852895432269234176].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1852895432269234176",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852895432269234176"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2044732903687696495",
+        "created_at": "2026-04-16T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044737275012231562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044737275012231562",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044736001986506814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 经济独立是精神独立的前提这样的话，无外乎是站在私有制和物物质基础的共同逻辑下用“金钱的律法”对试图自由的人进行的规训而已，因为精神自由不利于任何形式的“统治”，所以永远希望更多人低俗的追求钱权财色，这样社会就会更容易趋于稳定，因为你追求这些东西就不得不更大程度上在既定的规则里奋斗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044732903687696495",
+        "created_at": "2026-04-16T11:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044736001986506814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044736001986506814",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044732903687696495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说这话的人往往是利用对方目前的被迫人身依附情况（例如未成年），通过道德攻击（用着爹妈的怎么不听话）来打压对方的自由意志和精神独立，本质上是反动的。作为“该死的共产党”，我一点也不尊重私有财产，即使你人身依附，但你仍然可以硬拿硬要骗钱啃老宅家，因为世界是属于我们的，我们不吃pua那一套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2043816146328269283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 523,
+          "like_count": 2614,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 790
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

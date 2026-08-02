@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992173866538746319",
+    "created_at": "2025-11-24T04:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992814289468760392"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 94,
+          "normalized_text": "中日友好",
+          "probability": 0.5244,
+          "start": 91,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707356881390632960",
+          "start": 0,
+          "username": "kureakurea01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992814289468760392",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992814187639365654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kureakurea01 しかし、私たちが非難すべき焦点は行動や具体的な行為者にあるべきで、軽率にこうした行動を民族のステレオタイプに拡大解釈すれば、憎悪の増幅を助長するだけです。中日友好共存はますます実現不可能な空虚なスローガンとなってしまいます。普遍的な憎悪が永遠に続くことを望む者は誰もいません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992173866538746319",
+        "created_at": "2025-11-24T04:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992814289468760392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "中日友好",
+              "probability": 0.5244,
+              "start": 91,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707356881390632960",
+              "start": 0,
+              "username": "kureakurea01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992814289468760392",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992814187639365654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kureakurea01 しかし、私たちが非難すべき焦点は行動や具体的な行為者にあるべきで、軽率にこうした行動を民族のステレオタイプに拡大解釈すれば、憎悪の増幅を助長するだけです。中日友好共存はますます実現不可能な空虚なスローガンとなってしまいます。普遍的な憎悪が永遠に続くことを望む者は誰もいません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992173866538746319",
+        "created_at": "2025-11-24T04:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992814187639365654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "中国",
+              "probability": 0.8663,
+              "start": 50,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707356881390632960",
+              "start": 0,
+              "username": "kureakurea01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992814187639365654",
+        "in_reply_to_user_id": "1707356881390632960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992173866538746319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kureakurea01 私は中国人です。あなたの指摘は非常に理にかなっていると思います。確かに、中国には貧富の差や教育・社会問題、膨大な人口規模といった背景から、素養の低い人々が数多く存在し、彼らの行動は非難され、強制的な措置で規範化されるべきです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:29:45.000Z",
+        "description": "Xでは名もなき社説執筆者。違和感を言葉に変え、社会の矛盾と理不尽を掘り下げる。感情と知性の交差点から、時に冷徹に、時に熱く。記事を書くのは仕事でもあり、呼吸のような習慣。 人と社会、そして日本が大好きです🇯🇵",
+        "id": "1707356881390632960",
+        "name": "クレア",
+        "pinned_tweet_id": "1992381395751297255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965070160328536064/9QeBgAXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15861,
+          "following_count": 900,
+          "like_count": 7212,
+          "listed_count": 112,
+          "media_count": 1663,
+          "tweet_count": 11341
+        },
+        "username": "kureakurea01",
+        "verified": true
+      }
+    ]
+  }
+}

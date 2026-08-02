@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2076547959647543654",
+    "created_at": "2026-07-13T06:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076549700929614024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007064047255207937",
+          "start": 0,
+          "username": "Ayin886030"
+        },
+        {
+          "end": 20,
+          "id": "1494669485214633984",
+          "start": 12,
+          "username": "_Axer1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076549700929614024",
+    "in_reply_to_user_id": "2007064047255207937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076547959647543654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayin886030 @_Axer1a 真好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076547938382401536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFhWRJaUAAocJB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2076547959647543654",
+        "created_at": "2026-07-13T06:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076549700929614024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007064047255207937",
+              "start": 0,
+              "username": "Ayin886030"
+            },
+            {
+              "end": 20,
+              "id": "1494669485214633984",
+              "start": 12,
+              "username": "_Axer1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076549700929614024",
+        "in_reply_to_user_id": "2007064047255207937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076547959647543654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayin886030 @_Axer1a 真好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076547938382401536"
+          ]
+        },
+        "author_id": "2007064047255207937",
+        "conversation_id": "2076547959647543654",
+        "created_at": "2026-07-13T06:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076547959647543654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1494669485214633984",
+              "start": 12,
+              "username": "_Axer1a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2mmOKHb1w",
+              "end": 44,
+              "expanded_url": "https://x.com/Ayin886030/status/2076547959647543654/photo/1",
+              "media_key": "3_2076547938382401536",
+              "start": 21,
+              "url": "https://t.co/a2mmOKHb1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076547959647543654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了喜欢的专辑\n爱来自@_Axer1a https://t.co/a2mmOKHb1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 649,
+          "like_count": 3476,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:19:18.000Z",
+        "description": "称呼白华就好。她是前台。\n性少数友好 欢迎互fo交友\n¯\\_(ツ)_/¯\nhttps://t.co/Z0om3KWmNI\n💙喜欢@_Axer1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "_Axer1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ayin886030",
+                "end": 60,
+                "expanded_url": "https://t.me/ayin886030",
+                "start": 37,
+                "url": "https://t.co/Z0om3KWmNI"
+              }
+            ]
+          }
+        },
+        "id": "2007064047255207937",
+        "name": "birch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068336165028241408/u6qP9BJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 142,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Ayin886030",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun 阴湿自闭地雷精神病药蛆毒虫促智批 一般通过oder 混沌中立 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️ 最爱的@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Ayin886030"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 109,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 86,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1815,
+          "like_count": 82323,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 5185
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      }
+    ]
+  }
+}

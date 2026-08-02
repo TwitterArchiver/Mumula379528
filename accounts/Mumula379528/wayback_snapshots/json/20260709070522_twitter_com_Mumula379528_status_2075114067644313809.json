@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074794908968525824"
+      ],
+      "media_source_tweet_id": [
+        "2074794914047836201"
+      ]
+    },
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "2075114067644313809",
+    "created_at": "2026-07-09T07:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075114067644313809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1477225595222523905",
+          "start": 3,
+          "username": "fuyuuu_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2B1p8msgQ",
+          "end": 61,
+          "expanded_url": "https://x.com/fuyuuu_xxx/status/2074794914047836201/photo/1",
+          "media_key": "3_2074794908968525824",
+          "start": 38,
+          "url": "https://t.co/E2B1p8msgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075114067644313809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074794914047836201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuyuuu_xxx: 『ムーントイズ』キャラデザイン設定資料です https://t.co/E2B1p8msgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074794908968525824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsm-hrboAATcrP.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074794908968525824"
+          ],
+          "media_source_tweet_id": [
+            "2074794914047836201"
+          ]
+        },
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2075114067644313809",
+        "created_at": "2026-07-09T07:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075114067644313809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1477225595222523905",
+              "start": 3,
+              "username": "fuyuuu_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2B1p8msgQ",
+              "end": 61,
+              "expanded_url": "https://x.com/fuyuuu_xxx/status/2074794914047836201/photo/1",
+              "media_key": "3_2074794908968525824",
+              "start": 38,
+              "url": "https://t.co/E2B1p8msgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075114067644313809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074794914047836201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuyuuu_xxx: 『ムーントイズ』キャラデザイン設定資料です https://t.co/E2B1p8msgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074794908968525824"
+          ]
+        },
+        "author_id": "1477225595222523905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "2074794914047836201",
+        "created_at": "2026-07-08T09:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074794914047836201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2B1p8msgQ",
+              "end": 45,
+              "expanded_url": "https://x.com/fuyuuu_xxx/status/2074794914047836201/photo/1",
+              "media_key": "3_2074794908968525824",
+              "start": 22,
+              "url": "https://t.co/E2B1p8msgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074794914047836201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 15060,
+          "like_count": 1025,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "『ムーントイズ』キャラデザイン設定資料です https://t.co/E2B1p8msgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 630,
+          "like_count": 3259,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1088
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T10:30:56.000Z",
+        "description": "ボカロP / YouTube https://t.co/m4oLKmw0xT / niconico https://t.co/PB3RZDmX6U / FA #fyu_art / プロジェクトセカイ『ブラッドドール』収録",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "fyu_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@fuyuuu_xxx",
+                "end": 38,
+                "expanded_url": "https://youtube.com/@fuyuuu_xxx",
+                "start": 15,
+                "url": "https://t.co/m4oLKmw0xT"
+              },
+              {
+                "display_url": "nicovideo.jp/watch/sm450359…",
+                "end": 73,
+                "expanded_url": "https://www.nicovideo.jp/watch/sm45035930",
+                "start": 50,
+                "url": "https://t.co/PB3RZDmX6U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/fuyuuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/fuyuuu",
+                "start": 0,
+                "url": "https://t.co/fDkqMknhuh"
+              }
+            ]
+          }
+        },
+        "id": "1477225595222523905",
+        "location": "マジミラ2026→8/28~8/29出展【東京会場A-18】",
+        "name": "フユウ",
+        "pinned_tweet_id": "2026960431429103706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926967618964955136/Jbu8MxEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 188,
+          "like_count": 12143,
+          "listed_count": 46,
+          "media_count": 133,
+          "tweet_count": 3228
+        },
+        "url": "https://t.co/fDkqMknhuh",
+        "username": "fuyuuu_xxx",
+        "verified": true
+      }
+    ]
+  }
+}

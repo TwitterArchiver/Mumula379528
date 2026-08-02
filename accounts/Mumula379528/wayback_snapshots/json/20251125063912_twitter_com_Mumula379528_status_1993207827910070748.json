@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1993207731822772529",
+    "created_at": "2025-11-25T06:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993207827910070748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512739528552837126",
+          "start": 0,
+          "username": "11sa_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993207827910070748",
+    "in_reply_to_user_id": "1512739528552837126",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993207731822772529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11sa_27 kawaii————"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1993207731822772529",
+        "created_at": "2025-11-25T06:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993207827910070748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512739528552837126",
+              "start": 0,
+              "username": "11sa_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993207827910070748",
+        "in_reply_to_user_id": "1512739528552837126",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993207731822772529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11sa_27 kawaii————"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512739528552837126",
+        "conversation_id": "1993207731822772529",
+        "created_at": "2025-11-25T06:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993207731822772529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ゆうたくん",
+              "probability": 0.5702,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993207731822772529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ゆうたくん可愛すぎるな……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "From China🇨🇳A philosopher and sociologist committed to objectivity, fairness, and independence, who enjoys painting and gaming in their free time.",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 68,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T10:29:55.000Z",
+        "description": "enst,🌈🕒etc… ⚠重加工注意 sub🗝@masissorkk 💯🦂 🚓🐾 🐣📛 💞🦩etc…🔗cos一覧まとめ ❥❥𝙏𝙞𝙠𝙏𝙤𝙠 https://t.co/h9Rd53i7g8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "masissorkk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@11sa_27?_t=8o…",
+                "end": 92,
+                "expanded_url": "https://www.tiktok.com/@11sa_27?_t=8omax5wqGNW&_r=1",
+                "start": 69,
+                "url": "https://t.co/h9Rd53i7g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/11sa_27",
+                "end": 23,
+                "expanded_url": "https://cos.guide/i/11sa_27",
+                "start": 0,
+                "url": "https://t.co/TDTtIGxWMx"
+              }
+            ]
+          }
+        },
+        "id": "1512739528552837126",
+        "location": "25↑",
+        "name": "りかこ 29.30a!",
+        "pinned_tweet_id": "1929871664571117723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766480181500481536/IHRqhoDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 303,
+          "like_count": 33682,
+          "listed_count": 74,
+          "media_count": 382,
+          "tweet_count": 34162
+        },
+        "url": "https://t.co/TDTtIGxWMx",
+        "username": "11sa_27",
+        "verified": false
+      }
+    ]
+  }
+}

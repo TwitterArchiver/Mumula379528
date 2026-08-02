@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2039267220392640986",
+    "created_at": "2026-04-01T09:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T10:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039280710654026179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690530117171453952",
+          "start": 0,
+          "username": "AgNo3_XQ719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039280710654026179",
+    "in_reply_to_user_id": "1690530117171453952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039267220392640986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ719 出现～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039267215326023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzuulObkAAiHXj.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2039267220392640986",
+        "created_at": "2026-04-01T09:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039280710654026179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690530117171453952",
+              "start": 0,
+              "username": "AgNo3_XQ719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039280710654026179",
+        "in_reply_to_user_id": "1690530117171453952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039267220392640986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ719 出现～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039267215326023680"
+          ]
+        },
+        "author_id": "1690530117171453952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039267220392640986",
+        "created_at": "2026-04-01T09:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039267220392640986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/58kfOYh5Vy"
+            },
+            {
+              "display_url": "pic.x.com/WOVOpoAZHQ",
+              "end": 64,
+              "expanded_url": "https://x.com/AgNo3_XQ719/status/2039267220392640986/photo/1",
+              "media_key": "3_2039267215326023680",
+              "start": 41,
+              "url": "https://t.co/WOVOpoAZHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039267220392640986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/58kfOYh5Vy https://t.co/WOVOpoAZHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 459,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 637
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T01:06:17.000Z",
+        "description": "od妹｜09｜双相情感障碍｜istp-t｜互fo欢迎｜🚪52 88 188 288 520｜爱人@NiimiyaHoshi @llzvkeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "llzvkeai"
+              }
+            ]
+          }
+        },
+        "id": "1690530117171453952",
+        "location": "上海",
+        "name": "硝酸银_浅（二世）",
+        "pinned_tweet_id": "2036743649099448354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037769981103144960/hQGr2b3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 144,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 169
+        },
+        "username": "AgNo3_XQ719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2005120426578673878",
+    "created_at": "2025-12-28T13:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005271027644002384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479510124079185921",
+          "start": 0,
+          "username": "LCA176232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005271027644002384",
+    "in_reply_to_user_id": "1479510124079185921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005120426578673878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCA176232 自由的野猫没有野人对它进行不必要的照顾，如果部分人类人能控制住不去对那些猫猫进行不必要的照顾我相信社会评价会变好的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2005120422690308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OeZp5WQAA_EC8.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2005120426578673878",
+        "created_at": "2025-12-28T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005271027644002384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479510124079185921",
+              "start": 0,
+              "username": "LCA176232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005271027644002384",
+        "in_reply_to_user_id": "1479510124079185921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005120426578673878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCA176232 自由的野猫没有野人对它进行不必要的照顾，如果部分人类人能控制住不去对那些猫猫进行不必要的照顾我相信社会评价会变好的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005120422690308096"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005120426578673878",
+        "created_at": "2025-12-28T03:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005120426578673878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyLzTvnnVk",
+              "end": 39,
+              "expanded_url": "https://x.com/LCA176232/status/2005120426578673878/photo/1",
+              "media_key": "3_2005120422690308096",
+              "start": 16,
+              "url": "https://t.co/eyLzTvnnVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005120426578673878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 43787,
+          "like_count": 327,
+          "quote_count": 4,
+          "reply_count": 66,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“不许把自由的小猫叫成流浪猫” https://t.co/eyLzTvnnVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 156,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "pinned_tweet_id": "1985612462985744585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45176,
+          "following_count": 919,
+          "like_count": 101740,
+          "listed_count": 122,
+          "media_count": 12321,
+          "tweet_count": 16028
+        },
+        "username": "LCA176232",
+        "verified": false
+      }
+    ]
+  }
+}

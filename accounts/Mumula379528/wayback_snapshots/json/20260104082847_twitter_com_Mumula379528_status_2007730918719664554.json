@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007666150591868957",
+    "created_at": "2026-01-04T08:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007730918719664554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820898082961420289",
+          "start": 0,
+          "username": "Ejcryc3h4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007730918719664554",
+    "in_reply_to_user_id": "1820898082961420289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007666150591868957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ejcryc3h4o 邓出道都多早了，说不认识就是故意要给下马威耍大牌啦～自诩资历的成年人啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007666150591868957",
+        "created_at": "2026-01-04T08:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007730918719664554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820898082961420289",
+              "start": 0,
+              "username": "Ejcryc3h4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007730918719664554",
+        "in_reply_to_user_id": "1820898082961420289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007666150591868957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ejcryc3h4o 邓出道都多早了，说不认识就是故意要给下马威耍大牌啦～自诩资历的成年人啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820898082961420289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2007666150591868957",
+        "created_at": "2026-01-04T04:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007666150591868957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007666150591868957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邓紫棋和陈伟霆告诉我们一个道理，内娱不好混而且很排斥非内地艺人歌手，当年人家邓紫棋首次登台唱喜欢你台下一群导师装得跟二五八叉一样说不认识这人，能不能出门看看世界？港娱拉出来一个不是随便吊打你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 306,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 251
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:02:01.000Z",
+        "description": "小画渣，生活已经很苦了，我上来就为了找点文案看看，或者我自己发发，不参与zz，皮下女，喜欢跟女孩子聊天",
+        "id": "1820898082961420289",
+        "name": "真人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978147991920705536/-TdyXumo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 175,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 328
+        },
+        "username": "Ejcryc3h4o",
+        "verified": false
+      }
+    ]
+  }
+}

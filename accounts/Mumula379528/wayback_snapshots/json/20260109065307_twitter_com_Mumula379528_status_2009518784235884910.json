@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2009173452390060237",
+    "created_at": "2026-01-09T06:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009518784235884910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 23,
+          "id": "1560989453849464834",
+          "start": 14,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009518784235884910",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009234803162505527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @Liber537 一种毁誉参半的学说，试图建构和分析一切…私以为精神分析学派更适合和哲学学生去搞辩论而不是去给患者看病…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2009173452390060237",
+        "created_at": "2026-01-09T06:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009518784235884910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 23,
+              "id": "1560989453849464834",
+              "start": 14,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009518784235884910",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009234803162505527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @Liber537 一种毁誉参半的学说，试图建构和分析一切…私以为精神分析学派更适合和哲学学生去搞辩论而不是去给患者看病…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2009173452390060237",
+        "created_at": "2026-01-08T12:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009234803162505527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009234803162505527",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009173452390060237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 精神分析心理咨询对我来说有点折磨了，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 417,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 423
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 墙内更常用名: Roitium | 赛博精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007736597782126592/sUrC5aNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 446,
+          "like_count": 5168,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "location": "连线世界",
+        "name": "曇",
+        "pinned_tweet_id": "1972285130355138798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008564050943496192/Td2c99HJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 854,
+          "like_count": 70467,
+          "listed_count": 4,
+          "media_count": 827,
+          "tweet_count": 2313
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false
+      }
+    ]
+  }
+}

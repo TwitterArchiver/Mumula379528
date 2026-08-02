@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2076432484385054832",
+    "created_at": "2026-07-13T04:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076531129386254609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        },
+        {
+          "end": 24,
+          "id": "1701232705386471424",
+          "start": 14,
+          "username": "denka0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076531129386254609",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076432484385054832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT @denka0926 我磕磕磕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2076432477552582657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND4VkCbIAEQ2US.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2076432484385054832",
+        "created_at": "2026-07-13T04:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076531129386254609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 24,
+              "id": "1701232705386471424",
+              "start": 14,
+              "username": "denka0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076531129386254609",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076432484385054832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT @denka0926 我磕磕磕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076432477552582657"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076432484385054832",
+        "created_at": "2026-07-12T22:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076432484385054832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdLyE5kc4B",
+              "end": 25,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2076432484385054832/photo/1",
+              "media_key": "3_2076432477552582657",
+              "start": 2,
+              "url": "https://t.co/fdLyE5kc4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076432484385054832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/fdLyE5kc4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 647,
+          "like_count": 3475,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 55,
+          "like_count": 1097,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-11T13:54:36.000Z",
+        "description": "they/them/泛性戀/09\n中/粵/Eng\nintj/🇭🇰/adhd/ptsd\n叫睡睡或者猫猫也行有点害羞怕生\n不会聊天不懂怎么经营账号别讨厌我\n皮下女但是性别认同是他们不喜欢被用她称呼\n回人特别慢不要嫌弃我特别敏感脆弱的小猫\n先看完再dm我别问这里有的东西\n不加别的app",
+        "id": "1701232705386471424",
+        "name": "睡睡",
+        "pinned_tweet_id": "2070560115317678275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775426305959542784/BJIB2fLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3414,
+          "following_count": 16,
+          "like_count": 1187,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "denka0926",
+        "verified": false
+      }
+    ]
+  }
+}

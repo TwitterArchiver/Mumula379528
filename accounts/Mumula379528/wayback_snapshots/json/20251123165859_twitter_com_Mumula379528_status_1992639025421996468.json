@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992076755843346543",
+    "created_at": "2025-11-23T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992639025421996468"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "イスラム教",
+          "probability": 0.4892,
+          "start": 20,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1430863911889244167",
+          "start": 0,
+          "username": "airi_fact_555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992639025421996468",
+    "in_reply_to_user_id": "1430863911889244167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992076755843346543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@airi_fact_555 応援する！イスラム教には常に多くの不安定要素があり、どの国もそれらを管理すべきだ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_1992076738965487616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VHPVdbQAAOTm8.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992076755843346543",
+        "created_at": "2025-11-23T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992639025421996468"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "イスラム教",
+              "probability": 0.4892,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1430863911889244167",
+              "start": 0,
+              "username": "airi_fact_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992639025421996468",
+        "in_reply_to_user_id": "1430863911889244167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992076755843346543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@airi_fact_555 応援する！イスラム教には常に多くの不安定要素があり、どの国もそれらを管理すべきだ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992076738965487616"
+          ]
+        },
+        "author_id": "1430863911889244167",
+        "conversation_id": "1992076755843346543",
+        "created_at": "2025-11-22T03:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992076755843346543"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.8536,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnCsbOVAnU",
+              "end": 42,
+              "expanded_url": "https://x.com/airi_fact_555/status/1992076755843346543/photo/1",
+              "media_key": "3_1992076738965487616",
+              "start": 19,
+              "url": "https://t.co/JnCsbOVAnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992076755843346543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 71104,
+          "like_count": 9733,
+          "quote_count": 32,
+          "reply_count": 83,
+          "retweet_count": 2288
+        },
+        "reply_settings": "everyone",
+        "text": "日本という国は日本人の為に存在します https://t.co/JnCsbOVAnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 49,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T12:06:08.000Z",
+        "description": "純粋に日本国🇯🇵が愛おしい　トランプ大統領を応援してます　故・安倍元総理を尊敬してます",
+        "id": "1430863911889244167",
+        "location": "USA",
+        "name": "@airi_fact_555",
+        "pinned_tweet_id": "1983004635414880566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811688615443124224/PYlO95y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106036,
+          "following_count": 37881,
+          "like_count": 462228,
+          "listed_count": 393,
+          "media_count": 19684,
+          "tweet_count": 70910
+        },
+        "username": "airi_fact_555",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2076605872457789609",
+    "created_at": "2026-07-13T11:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076624844045885609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595700376203771904",
+          "start": 0,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076624844045885609",
+    "in_reply_to_user_id": "1595700376203771904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076605872457789609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user88881102 期待住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076605863947894784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGWB-sbgAACt7_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2076605872457789609",
+        "created_at": "2026-07-13T11:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076624844045885609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595700376203771904",
+              "start": 0,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076624844045885609",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076605872457789609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user88881102 期待住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076605863947894784"
+          ]
+        },
+        "author_id": "1595700376203771904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2076605872457789609",
+        "created_at": "2026-07-13T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076605872457789609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzKWJ2756F",
+              "end": 155,
+              "expanded_url": "https://x.com/user88881102/status/2076605872457789609/photo/1",
+              "media_key": "3_2076605863947894784",
+              "start": 132,
+              "url": "https://t.co/mzKWJ2756F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076605872457789609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "富川国际奇幻电影节，7月2日-7月9日，观看了13部电影+2个午夜场三部连映，99%都是还没公开放映的新片，我会在豆瓣和下一期的坏蛋调频从夯到拉讲讲这些电影，图片上的标题有点小，这里附上片单，所有没有官方中文片名的电影全部用英文片名代替：\n\n【痴迷】（2026）\n【瘴气营地的青春性事与死亡】（2026，亚洲首映）\n【Imposters】（2026，亚洲首映）\n【Appofeniacs】（2025，亚洲首映）\n【利未记】（2026，亚洲首映）\n【无限自助餐厅】（2025，亚洲首映）\n【BURN】（2026）\n【黑牢城】（2026）\n【Feels Like Home】（2026）\n【牢笼鬼魂】（2026）\n【The Only Child in the Butchery】（2025，亚洲首映）\n【Cursed Meme】（2026，全球首映）\n【杀手阿一】（2001，25周年4K修复，三池崇史大师课）\n【Sleep No More】（2026）\n【Deathgasm 2: Goremageddon】（2025，亚洲首映）\n【Flush】（2025，亚洲首映）\n【咖啡桌】（2025，亚洲首映）\n【圣剑屠魔】（2025，亚洲首映）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "富川国际奇幻电影节，7月2日-7月9日，观看了13部电影+2个午夜场三部连映，99%都是还没公开放映的新片，我会在豆瓣和下一期的坏蛋调频从夯到拉讲讲这些电影，图片上的标题有点小，这里附上片单，所有没有官方中文片名的电影全部用英文片名代替：\n\n【痴迷】（2026） https://t.co/mzKWJ2756F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@bdsmbratttt\n小白华@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "bdsmbratttt"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Ayin886030"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 652,
+          "like_count": 3494,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1178
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cllKb",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cllKb",
+                "start": 0,
+                "url": "https://t.co/iAm7icHPSY"
+              }
+            ]
+          }
+        },
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157,
+          "following_count": 3643,
+          "like_count": 6052,
+          "listed_count": 7,
+          "media_count": 628,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/iAm7icHPSY",
+        "username": "user88881102",
+        "verified": true
+      }
+    ]
+  }
+}

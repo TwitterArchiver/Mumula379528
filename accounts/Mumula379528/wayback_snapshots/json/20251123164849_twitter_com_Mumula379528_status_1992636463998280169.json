@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992341074338038093",
+    "created_at": "2025-11-23T16:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992636463998280169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592556713261289472",
+          "start": 0,
+          "username": "mirei_buppan794"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992636463998280169",
+    "in_reply_to_user_id": "1592556713261289472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992341074338038093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirei_buppan794 警告は非常に必要ですが、窃盗行為に対しては単なる穏やかな警告ではなく、厳しい教育によって子供をより良い人間へと導くべきだと考えます。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992341074338038093",
+        "created_at": "2025-11-23T16:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992636463998280169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592556713261289472",
+              "start": 0,
+              "username": "mirei_buppan794"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992636463998280169",
+        "in_reply_to_user_id": "1592556713261289472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992341074338038093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirei_buppan794 警告は非常に必要ですが、窃盗行為に対しては単なる穏やかな警告ではなく、厳しい教育によって子供をより良い人間へと導くべきだと考えます。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592556713261289472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "1992341074338038093",
+        "created_at": "2025-11-22T21:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T22:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992341074338038093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "箱根",
+              "probability": 0.825,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992341074338038093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "箱根で万引きよりタチ悪い瞬間を見た。\n箱根湯本のお土産屋さんで、子どもが売り物のお菓子をモグモグ食べていた。\n試食かなと思っていたら、別の棚からお菓子を取って袋を開け、また食べ始めた。\nその場に居合わせた店員さんが注意し、お母さんのところへ連れて行くと、母親は笑いながら軽く注意しただけ。そのうえで言い放ったのが…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1755,
+          "impression_count": 10596867,
+          "like_count": 29974,
+          "quote_count": 454,
+          "reply_count": 520,
+          "retweet_count": 2876
+        },
+        "reply_settings": "everyone",
+        "text": "箱根で万引きよりタチ悪い瞬間を見た。\n箱根湯本のお土産屋さんで、子どもが売り物のお菓子をモグモグ食べていた。\n試食かなと思っていたら、別の棚からお菓子を取って袋を開け、また食べ始めた。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T16:34:58.000Z",
+        "description": "26歳｜Fラン大卒⇒ブラック企業を転々として2年 どこにいても違う気がした｜副業で物販に出会い35万達成⇒脱サラ｜今は自由に旅先で歴史を感じ、博物館巡りで時を忘れる日々",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lin.ee/nmd0T5n",
+                "end": 23,
+                "expanded_url": "https://lin.ee/nmd0T5n",
+                "start": 0,
+                "url": "https://t.co/tkg5EqNh16"
+              }
+            ]
+          }
+        },
+        "id": "1592556713261289472",
+        "location": "ブラック企業から抜け出し、自由を手に入れるまで👇",
+        "name": "美玲",
+        "pinned_tweet_id": "1988599972695339109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986594046589194240/3VvZPFxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3541,
+          "following_count": 164,
+          "like_count": 21714,
+          "listed_count": 20,
+          "media_count": 42,
+          "tweet_count": 31202
+        },
+        "url": "https://t.co/tkg5EqNh16",
+        "username": "mirei_buppan794",
+        "verified": true
+      }
+    ]
+  }
+}

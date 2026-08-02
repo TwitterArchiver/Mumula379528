@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1993153873130012813",
+    "created_at": "2025-11-25T06:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993210711921856929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2862911904",
+          "start": 0,
+          "username": "mangbo2"
+        },
+        {
+          "end": 17,
+          "id": "1656290626743447552",
+          "start": 9,
+          "username": "dmmsell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993210711921856929",
+    "in_reply_to_user_id": "2862911904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993200883849687083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangbo2 @dmmsell 请不要指望社媒，公共社媒就是一个放大仇恨和冲突的地区，让我们只和愿意和谐交流的帖子和人讨论吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1993153873130012813",
+        "created_at": "2025-11-25T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993210711921856929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2862911904",
+              "start": 0,
+              "username": "mangbo2"
+            },
+            {
+              "end": 17,
+              "id": "1656290626743447552",
+              "start": 9,
+              "username": "dmmsell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993210711921856929",
+        "in_reply_to_user_id": "2862911904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993200883849687083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangbo2 @dmmsell 请不要指望社媒，公共社媒就是一个放大仇恨和冲突的地区，让我们只和愿意和谐交流的帖子和人讨论吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2862911904",
+        "conversation_id": "1993153873130012813",
+        "created_at": "2025-11-25T06:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993200883849687083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656290626743447552",
+              "start": 0,
+              "username": "dmmsell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993200883849687083",
+        "in_reply_to_user_id": "1656290626743447552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993153873130012813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmmsell 这个视频是很多年前的。当年我也在网上批评他们。日本也有人偷窃吧，这能代表所有日本都是小偷吗？你们这样和中国那些说日本都是坏人的小粉红有什么区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "From China🇨🇳A philosopher and sociologist committed to objectivity, fairness, and independence, who enjoys painting and gaming in their free time.",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 69,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-18T16:02:04.000Z",
+        "description": "https://t.co/v23HqjAAnI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "teepublic.com/user/mangbo",
+                "end": 23,
+                "expanded_url": "https://www.teepublic.com/user/mangbo",
+                "start": 0,
+                "url": "https://t.co/v23HqjAAnI"
+              }
+            ]
+          }
+        },
+        "id": "2862911904",
+        "name": "mangbo 忙波",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/523507057878515713/fwEZWCkD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 613,
+          "like_count": 5748,
+          "listed_count": 8,
+          "media_count": 295,
+          "tweet_count": 3923
+        },
+        "username": "mangbo2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T13:30:41.000Z",
+        "description": "日本に生まれたことを誇りに思っています❗️Xは様々な情報で溢れていますが正しい情報を取得し発信していきます📣（フォローは基本お返ししています）",
+        "id": "1656290626743447552",
+        "name": "櫻子🍡🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966256075327311872/AhdxaEto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 12,
+          "media_count": 42,
+          "tweet_count": 43
+        },
+        "username": "dmmsell",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1992173866538746319",
+    "created_at": "2025-11-24T04:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992816573858582943"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "中国",
+          "probability": 0.9037,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 36,
+          "normalized_text": "日本",
+          "probability": 0.587,
+          "start": 35,
+          "type": "Place"
+        },
+        {
+          "end": 89,
+          "normalized_text": "中国人民",
+          "probability": 0.4256,
+          "start": 86,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707356881390632960",
+          "start": 0,
+          "username": "kureakurea01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992816573858582943",
+    "in_reply_to_user_id": "1707356881390632960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992173866538746319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kureakurea01 残念ながら、今日の中国の一般市民はしばしば日本に対して単純化された憎悪を抱いている。この高まる反日感情は、友好と平和の実現を深刻に阻害している。中国人民は歴史の教訓を汲み取り、ファシズムに警戒すべきであり、歴史に固執した憎悪に留まるべきではない。これもまた解決すべき課題だと考える"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134901,
+        "height": 1024,
+        "media_key": "13_1992173664255852544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992173664255852544/img/z8bFWECPB1y13FoD.jpg",
+        "public_metrics": {
+          "view_count": 316664
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992173664255852544/vid/avc1/320x568/yTII8AK_g3rtHwnc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992173664255852544/vid/avc1/480x852/kv9j8Ar_xHqNdMSR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992173664255852544/vid/avc1/576x1024/iq7Zm4RbfT7dRMqo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992173664255852544/pl/RqMziFAFJRbWra1d.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1992173866538746319",
+        "created_at": "2025-11-24T04:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992816573858582943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "中国",
+              "probability": 0.9037,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "日本",
+              "probability": 0.587,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "中国人民",
+              "probability": 0.4256,
+              "start": 86,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707356881390632960",
+              "start": 0,
+              "username": "kureakurea01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992816573858582943",
+        "in_reply_to_user_id": "1707356881390632960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992173866538746319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kureakurea01 残念ながら、今日の中国の一般市民はしばしば日本に対して単純化された憎悪を抱いている。この高まる反日感情は、友好と平和の実現を深刻に阻害している。中国人民は歴史の教訓を汲み取り、ファシズムに警戒すべきであり、歴史に固執した憎悪に留まるべきではない。これもまた解決すべき課題だと考える"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992173664255852544"
+          ]
+        },
+        "author_id": "1707356881390632960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "1992173866538746319",
+        "created_at": "2025-11-22T10:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992173866538746319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdGQqJiVb1",
+              "end": 165,
+              "expanded_url": "https://x.com/kureakurea01/status/1992173866538746319/video/1",
+              "media_key": "13_1992173664255852544",
+              "start": 142,
+              "url": "https://t.co/FdGQqJiVb1"
+            },
+            {
+              "display_url": "x.com/hezuruy/status…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/hezuruy/status/1992135656643137741",
+              "start": 166,
+              "url": "https://t.co/25wjdUyp2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992173866538746319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "昔、コンビニのレジの前で「トイレ貸せ」からの、使えないと分かった途端にレジ側に乗り込んでその場でおしっこしようとする迷惑動画があった。これ、ギャグでもコントでもなくてリアルだってんだから、そりゃ日本人もビビるのよね。\n\nで、へずまりゅう氏は「中国人観光客が減ってホッとした」と書く。\n\n鹿を守るために注意し続けて、レイシスト呼ばわりされて、時には奥さんの前で泣いた夜もあったってさ。\n\nここまで来ると、単なる炎上系じゃなくて、現場で汚れ仕事をしてきた番人みたいな悲哀がにじむわね。\n\nただな、ここで勘違いしちゃいけないのは、「中国人だからダメ」じゃなくて「ルールを守らないヤツがダメ」って話だってことだよ。\n\nレジ前放尿未遂も、奈良の鹿を指導と称して蹴ったり（中国人や左派は、これを蹴るとは言わず、身を守るために払ったと表現してくる）、ゴミをポイ捨て（これも、日本人もらってるって反論くる）したりするのも、国籍より前に人としてアウトなんだよ。\n\nだけど現場に立ってる店員や地元の人から見りゃ、それがたまたま同じ国のツアー客ばっかりだと、頭の中で「＝」で結びついちゃうの。\n\nそこから差別と反発のスパイラルが始まる。\n\n観光立国だインバウンドだって、政府は「お金を落としてくれる人」としてしか見てこなかった。マナー教育もルールの事前周知も中途半端、現場でトラブルが起きたら、コンビニ店員と鹿とへずまりゅうに丸投げじゃん。\n\nちゃんとした国ならこうするべきなんだよ。\n\n入国前から多言語で「やっちゃいけないこと」を徹底して知らせる。\n\n迷惑行為には即座に罰金や出禁など、わかりやすいペナルティを法律でつくる。\n\n現場の店員やガイドが守られる仕組みにする。\n\nそれをサボって「観光客は神様ですから」なんてやってると、お客様がレジ前でズボン下ろす国になる。これ、全然笑い事じゃないよ。\n\n一方で、へずまりゅう氏みたいに「おかしいものはおかしい」と声を上げた人間をすぐ「レイシスト」ってラベル貼って黙らせようとする空気も問題だよ。\n\n行為を批判することと、人種そのものを憎むことは、本来まったく別の話でしょ？\n\nそこをごちゃごちゃにしたまま放置してきたから、真面目に現場を守ろうとした人ほど傷ついて、ネットの奥でこじらせていく。\n\nこれから必要なのは、「嫌いだから来るな」じゃなくて「ルールを守れるなら誰でも歓迎。でも守れないなら即アウト」っていう、シンプルで冷静な線引きだよ。\n\nコンビニのトイレ一つ守れない人間に、国際交流も観光立国も語る資格があるわけないじゃん。コンビニでトイレ使えなきゃ他探すしかない。それを漏れる！国際問題なるぞ！って叫んで店内おしっこするなら即強制送還でお願いしたいものね。\n\n逆に言えば、きちんとルールを守る観光客は国籍関係なく、もっと胸張って歓迎すりゃいい。\n\nレジ前放尿騒ぎも、鹿を守る男の涙も、ぜんぶ境界線を引かなかったツケなのよね。\n\n優しさと甘さを履き違えたら、街も店も、そして人の心もどんどん汚れていく。\n\nトイレは決まった場所で済ませる。\n\nルール違反はその場で止める。\n\n当たり前のことを当たり前にやれる国に戻れるかどうか。中国の団体様が一時的に来なくなった今がチャンスだよ、これからがルールの再整備と線引きができるかどうかの正念場だよ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 811333,
+          "like_count": 6151,
+          "quote_count": 48,
+          "reply_count": 84,
+          "retweet_count": 1453
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992135656643137741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昔、コンビニのレジの前で「トイレ貸せ」からの、使えないと分かった途端にレジ側に乗り込んでその場でおしっこしようとする迷惑動画があった。これ、ギャグでもコントでもなくてリアルだってんだから、そりゃ日本人もビビるのよね。\n\nで、へずまりゅう氏は「中国人観光客が減ってホッとした」と書く。 https://t.co/FdGQqJiVb1 https://t.co/25wjdUyp2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 59,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:29:45.000Z",
+        "description": "Xでは名もなき社説執筆者。違和感を言葉に変え、社会の矛盾と理不尽を掘り下げる。感情と知性の交差点から、時に冷徹に、時に熱く。記事を書くのは仕事でもあり、呼吸のような習慣。 人と社会、そして日本が大好きです🇯🇵",
+        "id": "1707356881390632960",
+        "name": "クレア",
+        "pinned_tweet_id": "1992381395751297255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965070160328536064/9QeBgAXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15864,
+          "following_count": 900,
+          "like_count": 7212,
+          "listed_count": 112,
+          "media_count": 1663,
+          "tweet_count": 11341
+        },
+        "username": "kureakurea01",
+        "verified": true
+      }
+    ]
+  }
+}

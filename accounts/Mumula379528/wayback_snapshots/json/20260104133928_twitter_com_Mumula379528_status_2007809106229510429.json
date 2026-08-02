@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007799318800183373",
+    "created_at": "2026-01-04T13:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T14:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007809106229510429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007809106229510429",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007799318800183373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing1234560 帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007799304774361088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90i1HVaIAAbT6R.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007799304782786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90i1HXasAA0v5y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007799318800183373",
+        "created_at": "2026-01-04T13:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007809106229510429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007809106229510429",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007799318800183373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing1234560 帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007799304774361088",
+            "3_2007799304782786560"
+          ]
+        },
+        "author_id": "1700917352064561152",
+        "conversation_id": "2007799318800183373",
+        "created_at": "2026-01-04T13:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007799318800183373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkU37d6UVJ",
+              "end": 34,
+              "expanded_url": "https://x.com/jing1234560/status/2007799318800183373/photo/1",
+              "media_key": "3_2007799304774361088",
+              "start": 11,
+              "url": "https://t.co/FkU37d6UVJ"
+            },
+            {
+              "display_url": "pic.x.com/FkU37d6UVJ",
+              "end": 34,
+              "expanded_url": "https://x.com/jing1234560/status/2007799318800183373/photo/1",
+              "media_key": "3_2007799304782786560",
+              "start": 11,
+              "url": "https://t.co/FkU37d6UVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007799318800183373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ootd穿的死人原味 https://t.co/FkU37d6UVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 333,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 274
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1998406402038272193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5266,
+          "following_count": 122,
+          "like_count": 9820,
+          "listed_count": 8,
+          "media_count": 247,
+          "tweet_count": 4916
+        },
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

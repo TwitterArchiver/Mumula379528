@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2004792212211532261",
+    "created_at": "2025-12-27T06:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004799880309723168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004799880309723168",
+    "in_reply_to_user_id": "1991927210899574785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004792212211532261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绝大多数情况下生存的欲望已经压过自由意志的时候……所谓胁迫和不得已不过是自我安慰的语言而已。生命就是四分之一的偶然，四分之一的求生欲，四分之一的爱和四分之一的虚度光阴，之后藉由此四种中催生出名为生活的给自我的交代以及无穷的痛苦，以此为度过获得智识的寿命的代价。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2004792212211532261",
+        "created_at": "2025-12-27T06:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004799880309723168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004799880309723168",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004792212211532261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝大多数情况下生存的欲望已经压过自由意志的时候……所谓胁迫和不得已不过是自我安慰的语言而已。生命就是四分之一的偶然，四分之一的求生欲，四分之一的爱和四分之一的虚度光阴，之后藉由此四种中催生出名为生活的给自我的交代以及无穷的痛苦，以此为度过获得智识的寿命的代价。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2004792212211532261",
+        "created_at": "2025-12-27T05:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004792212211532261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004792212211532261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们必须相信每个人的决定都是自愿的而非胁迫的，直到生活把生命置于选择之上，而后形成痛苦的孤岛，正如我们必须承认Deamon是圣灵的另一个译名那样承认痛苦其实由生存而非生活塑造的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 110,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "Mumula379528",
+        "verified": false
+      }
+    ]
+  }
+}

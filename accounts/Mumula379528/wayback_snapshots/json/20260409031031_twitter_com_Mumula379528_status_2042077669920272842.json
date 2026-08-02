@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2042035261559992474",
+    "created_at": "2026-04-09T03:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042077669920272842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974365487040802816",
+          "start": 0,
+          "username": "wexadksgph"
+        },
+        {
+          "end": 19,
+          "id": "1613079089879076864",
+          "start": 12,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042077669920272842",
+    "in_reply_to_user_id": "1974365487040802816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042036852115546135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wexadksgph @Cldeop 奇怪的rpg，不过大多数情况是电脑越好武器越差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2042035261559992474",
+        "created_at": "2026-04-09T03:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042077669920272842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974365487040802816",
+              "start": 0,
+              "username": "wexadksgph"
+            },
+            {
+              "end": 19,
+              "id": "1613079089879076864",
+              "start": 12,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042077669920272842",
+        "in_reply_to_user_id": "1974365487040802816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042036852115546135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wexadksgph @Cldeop 奇怪的rpg，不过大多数情况是电脑越好武器越差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974365487040802816",
+        "conversation_id": "2042035261559992474",
+        "created_at": "2026-04-09T00:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042036852115546135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042036852115546135",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042035261559992474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 我记得有个游戏电脑配置会影响武器属性来着🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n\nAn angel of love:@peipeimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 499,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 672
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T06:46:53.000Z",
+        "description": "中国出身で、現在日本語を勉強中です！📚\n日本の文化、アニメ、ゲームが大好きです。\n特に型月（TYPE-MOON）作品が大好きです！\nネットで友達をたくさん作りたいです。\nよろしくお願いします！✨",
+        "id": "1974365487040802816",
+        "name": "shiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989099782309310464/aZoKFpCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 65,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "wexadksgph",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101481,
+          "following_count": 759,
+          "like_count": 35998,
+          "listed_count": 288,
+          "media_count": 17438,
+          "tweet_count": 25095
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

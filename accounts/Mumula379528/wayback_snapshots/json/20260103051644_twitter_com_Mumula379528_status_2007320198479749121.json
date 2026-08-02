@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007021074022903854",
+    "created_at": "2026-01-03T05:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T06:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007320198479749121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398911990928744449",
+          "start": 0,
+          "username": "HUTABAKK77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007320198479749121",
+    "in_reply_to_user_id": "1398911990928744449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007021074022903854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUTABAKK77 这个暮暮从来不虚报因为暮暮才163矮的太显眼了根本没有虚报的空间（雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007021074022903854",
+        "created_at": "2026-01-03T05:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007320198479749121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398911990928744449",
+              "start": 0,
+              "username": "HUTABAKK77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007320198479749121",
+        "in_reply_to_user_id": "1398911990928744449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007021074022903854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUTABAKK77 这个暮暮从来不虚报因为暮暮才163矮的太显眼了根本没有虚报的空间（雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398911990928744449",
+        "conversation_id": "2007021074022903854",
+        "created_at": "2026-01-02T09:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007021074022903854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007021074022903854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19083,
+          "like_count": 116,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说自己177的男的，真实身高超过172算我输"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 278,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 207
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-30T07:59:56.000Z",
+        "description": "记录/ENFJ/欢迎投喂开启聊天/真的很喜欢聊天💬/私信只回口令",
+        "id": "1398911990928744449",
+        "name": "H",
+        "pinned_tweet_id": "1955886609112686886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948621004655464448/CXqqU1Dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9900,
+          "following_count": 67,
+          "like_count": 18749,
+          "listed_count": 15,
+          "media_count": 1134,
+          "tweet_count": 6136
+        },
+        "username": "HUTABAKK77",
+        "verified": false
+      }
+    ]
+  }
+}

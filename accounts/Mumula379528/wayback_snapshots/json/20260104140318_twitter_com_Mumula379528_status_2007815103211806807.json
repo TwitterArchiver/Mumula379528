@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007642457455112350",
+    "created_at": "2026-01-04T14:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007815103211806807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1604466769938198528",
+          "start": 0,
+          "username": "eniwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007815103211806807",
+    "in_reply_to_user_id": "1604466769938198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007642457455112350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eniwwwww 大多数人只能陪伴你一段时期，只有很少的朋友能和你一直走下去。\n关系的建立需要语言和心，当一段感情剥离语言后，心仍然在那里，那就对了。\n简而言之，最好的关系是即使不进行语言交流，心的距离也让你从不担心这段关系是否会冷淡，变质，当你如此安心的对待一段关系的时候那就是了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2007642455253123072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9yULRVbAAA2vug.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007642457455112350",
+        "created_at": "2026-01-04T14:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007815103211806807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1604466769938198528",
+              "start": 0,
+              "username": "eniwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007815103211806807",
+        "in_reply_to_user_id": "1604466769938198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007642457455112350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eniwwwww 大多数人只能陪伴你一段时期，只有很少的朋友能和你一直走下去。\n关系的建立需要语言和心，当一段感情剥离语言后，心仍然在那里，那就对了。\n简而言之，最好的关系是即使不进行语言交流，心的距离也让你从不担心这段关系是否会冷淡，变质，当你如此安心的对待一段关系的时候那就是了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007642455253123072"
+          ]
+        },
+        "author_id": "1604466769938198528",
+        "conversation_id": "2007642457455112350",
+        "created_at": "2026-01-04T02:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007642457455112350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDaltPH6TK",
+              "end": 157,
+              "expanded_url": "https://x.com/eniwwwww/status/2007642457455112350/photo/1",
+              "media_key": "3_2007642455253123072",
+              "start": 134,
+              "url": "https://t.co/dDaltPH6TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007642457455112350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 246,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "人和人之间若要长期维持关系，所需要的是什么呢？\n某个领悟/兴趣爱好的共同语言和日常分享吗，是否需要长期的亲密互动（共同游戏，连麦活动）这样也太难了吧，即使是和相处很开心的人亲密接触一段时间我也会感觉精力被消耗，当然也可能只是我少得可怜的样本让我对朋友相处如此无知（） https://t.co/dDaltPH6TK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 336,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 281
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T13:21:18.000Z",
+        "description": "生活不需要那么多的意义和目的\n开心就好\n刷屏警告:\n大部分时间是附有表情包的流水账\n偶尔会有一些生活上的负面碎碎念\n正努力试图对抗虚无主义\n依然爱这个世界和所有人",
+        "id": "1604466769938198528",
+        "location": "互联网蛀虫",
+        "name": "eniw",
+        "pinned_tweet_id": "1605148260556869633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629869064456908807/q_9mUOyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 358,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 788,
+          "tweet_count": 1133
+        },
+        "username": "eniwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2008114674123108736",
+    "created_at": "2026-01-05T11:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008136603647246466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008136603647246466",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008114674123108736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 发生了什么呀Edward～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2008114667626041344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95BppgaEAA2B-a.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2008114674123108736",
+        "created_at": "2026-01-05T11:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008136603647246466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008136603647246466",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008114674123108736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 发生了什么呀Edward～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008114667626041344"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "2008114674123108736",
+        "created_at": "2026-01-05T09:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008114674123108736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkOLN7UuIA",
+              "end": 29,
+              "expanded_url": "https://x.com/Edward_8964/status/2008114674123108736/photo/1",
+              "media_key": "3_2008114667626041344",
+              "start": 6,
+              "url": "https://t.co/EkOLN7UuIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008114674123108736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重伤敌人！ https://t.co/EkOLN7UuIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 365,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 323
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎/FOW参与者/FOW网页端维护者/退役OIer转ODer/ADHD/精神疾病/老婆：@jingyinhequan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "jingyinhequan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/LISkhFoXg7"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "红船上的炸弹旁",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2005901762218320212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 723,
+          "like_count": 8138,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/LISkhFoXg7",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

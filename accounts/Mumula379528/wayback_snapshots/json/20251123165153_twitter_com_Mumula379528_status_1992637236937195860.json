@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1991181720629223579",
+    "created_at": "2025-11-23T16:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992637236937195860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1968825721868140544",
+          "start": 0,
+          "username": "machixxx_cos"
+        },
+        {
+          "end": 22,
+          "id": "1512739528552837126",
+          "start": 14,
+          "username": "11sa_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992637236937195860",
+    "in_reply_to_user_id": "1968825721868140544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991181720629223579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@machixxx_cos @11sa_27 So kawaii !!  An angel from the most beautiful place——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1991181720629223579",
+        "created_at": "2025-11-23T16:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992637236937195860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1968825721868140544",
+              "start": 0,
+              "username": "machixxx_cos"
+            },
+            {
+              "end": 22,
+              "id": "1512739528552837126",
+              "start": 14,
+              "username": "11sa_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992637236937195860",
+        "in_reply_to_user_id": "1968825721868140544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991181720629223579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@machixxx_cos @11sa_27 So kawaii !!  An angel from the most beautiful place——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968825721868140544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1991181720629223579",
+        "created_at": "2025-11-19T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991181720629223579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11sa_27/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/11sa_27/status/1991111218627809512",
+              "start": 48,
+              "url": "https://t.co/3hmyKOI7ub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991181720629223579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991111218627809512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "お顔を見たらいいのか、\n御御足をみたらいいのか…ガン見👀✨️\n(((可愛いがすぎる、脚フェチ🙏 https://t.co/3hmyKOI7ub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 48,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T23:53:38.000Z",
+        "description": "Cosplay / enst / Knights /泉・司 @machi1225_cos ⇽DM使いすぎて凍結した元アカ( ᵒ̴̶̷̥́ࡇᵒ̴̶̷̣̥̀ ) ※新規予定慎重",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "machi1225_cos"
+              }
+            ]
+          }
+        },
+        "id": "1968825721868140544",
+        "name": "MACHi@避難先",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981953977743814656/U7AH0vmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 77,
+          "like_count": 711,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 723
+        },
+        "username": "machixxx_cos",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-09T10:29:55.000Z",
+        "description": "enst,🌈🕒etc… ⚠重加工注意 sub🗝@masissorkk 💯🦂 🚓🐾 🐣📛 💞🦩etc…🔗cos一覧まとめ ❥❥𝙏𝙞𝙠𝙏𝙤𝙠 https://t.co/h9Rd53i7g8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "masissorkk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@11sa_27?_t=8o…",
+                "end": 92,
+                "expanded_url": "https://www.tiktok.com/@11sa_27?_t=8omax5wqGNW&_r=1",
+                "start": 69,
+                "url": "https://t.co/h9Rd53i7g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/11sa_27",
+                "end": 23,
+                "expanded_url": "https://cos.guide/i/11sa_27",
+                "start": 0,
+                "url": "https://t.co/TDTtIGxWMx"
+              }
+            ]
+          }
+        },
+        "id": "1512739528552837126",
+        "location": "25↑",
+        "name": "りかこ",
+        "pinned_tweet_id": "1929871664571117723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766480181500481536/IHRqhoDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 302,
+          "like_count": 33690,
+          "listed_count": 75,
+          "media_count": 382,
+          "tweet_count": 34157
+        },
+        "url": "https://t.co/TDTtIGxWMx",
+        "username": "11sa_27",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2006783441816469548",
+    "created_at": "2026-01-01T19:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006815626220941757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006815626220941757",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006783441816469548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoynqi3 人类在群体性中的安全倾向就是为群体固定带有偏见的标签，生产集体性刻板印象，文化中心主义，多数控制少数和主流排斥异见，这只是人类形成集合后必然诞生的很常见的所谓“虚伪的安全”的例证，对于此类我称为“安全性偏见”的一以贯之的习性只感到无奈且无力，cryyyyyyyy。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2006783441816469548",
+        "created_at": "2026-01-01T19:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006815626220941757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006815626220941757",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006783441816469548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 人类在群体性中的安全倾向就是为群体固定带有偏见的标签，生产集体性刻板印象，文化中心主义，多数控制少数和主流排斥异见，这只是人类形成集合后必然诞生的很常见的所谓“虚伪的安全”的例证，对于此类我称为“安全性偏见”的一以贯之的习性只感到无奈且无力，cryyyyyyyy。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2006783441816469548",
+        "created_at": "2026-01-01T17:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006783441816469548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006783441816469548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3405,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前刷到过一个艾滋病人的视频，因为家人认为这是耻辱，他一个人被丢在农村的土房子里慢慢等死，身边一个人都没有。虚弱得只想早点解脱。\n我想，把艾滋病当成普通的疾病，对社会，对个人，也许都要好一些。\n一来减少了病人的精神压力，避免一些病人的无差别暴力事件。\n二来可以让病人得到更多的帮助。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 250,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 154
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 188,
+          "like_count": 29574,
+          "listed_count": 17,
+          "media_count": 305,
+          "tweet_count": 6961
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

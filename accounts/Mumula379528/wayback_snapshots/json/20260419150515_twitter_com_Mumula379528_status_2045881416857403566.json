@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2045881416857403566",
+    "created_at": "2026-04-19T15:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045881416857403566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nffc/status/20…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/nffc/status/2045879790759219258",
+          "start": 87,
+          "url": "https://t.co/zT3cRiZC81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045881416857403566",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045879790759219258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "We have a brilliant attacking midfielder, and we’ve secured a crucial victory!COYR！🍎🍎🍎 https://t.co/zT3cRiZC81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2045879700145455104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRsv2xaQAAhzwb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2045881416857403566",
+        "created_at": "2026-04-19T15:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045881416857403566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nffc/status/20…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/nffc/status/2045879790759219258",
+              "start": 87,
+              "url": "https://t.co/zT3cRiZC81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045881416857403566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045879790759219258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We have a brilliant attacking midfielder, and we’ve secured a crucial victory!COYR！🍎🍎🍎 https://t.co/zT3cRiZC81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045879700145455104"
+          ]
+        },
+        "author_id": "39754653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2045879790759219258",
+        "created_at": "2026-04-19T14:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045879790759219258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoQCL3qWP9",
+              "end": 43,
+              "expanded_url": "https://x.com/NFFC/status/2045879790759219258/photo/1",
+              "media_key": "3_2045879700145455104",
+              "start": 20,
+              "url": "https://t.co/LoQCL3qWP9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045879790759219258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7777,
+          "like_count": 503,
+          "quote_count": 42,
+          "reply_count": 64,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "THREE BIG POINTS. 👊 https://t.co/LoQCL3qWP9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2043816146328269283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 526,
+          "like_count": 2684,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 804
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T13:56:14.000Z",
+        "description": "Wearing the Garibaldi with pride since 1865.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nottinghamforest.co.uk",
+                "end": 23,
+                "expanded_url": "https://www.nottinghamforest.co.uk",
+                "start": 0,
+                "url": "https://t.co/6qNXGBZIdR"
+              }
+            ]
+          }
+        },
+        "id": "39754653",
+        "location": "The City Ground",
+        "name": "Nottingham Forest",
+        "pinned_tweet_id": "2045879790759219258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006664639560507392/SJjVvCjd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718351,
+          "following_count": 229,
+          "like_count": 3619,
+          "listed_count": 3215,
+          "media_count": 27723,
+          "tweet_count": 65060
+        },
+        "url": "https://t.co/6qNXGBZIdR",
+        "username": "NFFC",
+        "verified": true
+      }
+    ]
+  }
+}

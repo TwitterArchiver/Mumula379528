@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992545461056721182",
+    "created_at": "2025-11-23T16:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992631627105849472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "830746399775956993",
+          "start": 0,
+          "username": "jumpingfrogs1"
+        },
+        {
+          "end": 31,
+          "id": "1886969144031240192",
+          "start": 15,
+          "username": "SpoxCHN_MaoNing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992631627105849472",
+    "in_reply_to_user_id": "830746399775956993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992559668934459675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jumpingfrogs1 @SpoxCHN_MaoNing 中国并没有做这些事情，你为什么要四处质问从未发生的事情？这是一种诽谤和造谣，请停止你毫无根据的诽谤行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992545461056721182",
+        "created_at": "2025-11-23T16:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992631627105849472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "830746399775956993",
+              "start": 0,
+              "username": "jumpingfrogs1"
+            },
+            {
+              "end": 31,
+              "id": "1886969144031240192",
+              "start": 15,
+              "username": "SpoxCHN_MaoNing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992631627105849472",
+        "in_reply_to_user_id": "830746399775956993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992559668934459675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jumpingfrogs1 @SpoxCHN_MaoNing 中国并没有做这些事情，你为什么要四处质问从未发生的事情？这是一种诽谤和造谣，请停止你毫无根据的诽谤行为"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830746399775956993",
+        "conversation_id": "1992545461056721182",
+        "created_at": "2025-11-23T11:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992559668934459675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886969144031240192",
+              "start": 0,
+              "username": "SpoxCHN_MaoNing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992559668934459675",
+        "in_reply_to_user_id": "1886969144031240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6164,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992545461056721182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpoxCHN_MaoNing 如果中國真的愛和平,你們怎麼能糟蹋西藏,維吾爾人的人權呢?把火箭瞄準對台灣呢?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T11:52:31.000Z",
+        "description": "音楽と映画が好き。日語/中文/英文/粵語 /台語/前衛重金屬搖滾/台語搖滾/劉笙彙 /John Myung/ Arnel pineda etc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/sallychair/",
+                "end": 23,
+                "expanded_url": "https://ameblo.jp/sallychair/",
+                "start": 0,
+                "url": "https://t.co/efyjdNRKfA"
+              }
+            ]
+          }
+        },
+        "id": "830746399775956993",
+        "location": "Japan",
+        "name": "jumpingfrogs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/830747628891541505/YjtugxsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 263,
+          "like_count": 76259,
+          "listed_count": 4,
+          "media_count": 1107,
+          "tweet_count": 36487
+        },
+        "url": "https://t.co/efyjdNRKfA",
+        "username": "jumpingfrogs1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158078,
+          "following_count": 243,
+          "like_count": 1,
+          "listed_count": 622,
+          "media_count": 963,
+          "tweet_count": 1015
+        },
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      }
+    ]
+  }
+}

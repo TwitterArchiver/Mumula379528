@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074443686516293632",
+        "3_2074443741528768512"
+      ],
+      "media_source_tweet_id": [
+        "2074443780053487940",
+        "2074443780053487940"
+      ]
+    },
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074781751927521573",
+    "created_at": "2026-07-08T09:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074781751927521573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "84002545",
+          "start": 3,
+          "username": "duet_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Icv7CTGG37",
+          "end": 40,
+          "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+          "media_key": "3_2074443686516293632",
+          "start": 17,
+          "url": "https://t.co/Icv7CTGG37"
+        },
+        {
+          "display_url": "pic.x.com/Icv7CTGG37",
+          "end": 40,
+          "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+          "media_key": "3_2074443741528768512",
+          "start": 17,
+          "url": "https://t.co/Icv7CTGG37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074781751927521573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074443780053487940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duet_: 中心と放射 https://t.co/Icv7CTGG37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2074443686516293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnnisFbAAAg7xK.jpg",
+        "width": 1232
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2074443741528768512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnnl5BawAAXsV-.jpg",
+        "width": 2464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074443686516293632",
+            "3_2074443741528768512"
+          ],
+          "media_source_tweet_id": [
+            "2074443780053487940",
+            "2074443780053487940"
+          ]
+        },
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074781751927521573",
+        "created_at": "2026-07-08T09:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074781751927521573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "84002545",
+              "start": 3,
+              "username": "duet_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Icv7CTGG37",
+              "end": 40,
+              "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+              "media_key": "3_2074443686516293632",
+              "start": 17,
+              "url": "https://t.co/Icv7CTGG37"
+            },
+            {
+              "display_url": "pic.x.com/Icv7CTGG37",
+              "end": 40,
+              "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+              "media_key": "3_2074443741528768512",
+              "start": 17,
+              "url": "https://t.co/Icv7CTGG37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074781751927521573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074443780053487940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duet_: 中心と放射 https://t.co/Icv7CTGG37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074443686516293632",
+            "3_2074443741528768512"
+          ]
+        },
+        "author_id": "84002545",
+        "conversation_id": "2074443780053487940",
+        "created_at": "2026-07-07T10:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074443780053487940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Icv7CTGG37",
+              "end": 29,
+              "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+              "media_key": "3_2074443686516293632",
+              "start": 6,
+              "url": "https://t.co/Icv7CTGG37"
+            },
+            {
+              "display_url": "pic.x.com/Icv7CTGG37",
+              "end": 29,
+              "expanded_url": "https://x.com/duet_/status/2074443780053487940/photo/1",
+              "media_key": "3_2074443741528768512",
+              "start": 6,
+              "url": "https://t.co/Icv7CTGG37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074443780053487940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 28434,
+          "like_count": 950,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "中心と放射 https://t.co/Icv7CTGG37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 610,
+          "like_count": 3132,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1033
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-21T04:46:18.000Z",
+        "description": "絵を描く 画集販売しました https://t.co/rWEJT1mcdN VRC: https://t.co/R9jXRQCPuG \nduet0912@gmail.com\nhttps://t.co/9j7jbpPHsG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tailcat.booth.pm/items/6285469",
+                "end": 37,
+                "expanded_url": "https://tailcat.booth.pm/items/6285469",
+                "start": 14,
+                "url": "https://t.co/rWEJT1mcdN"
+              },
+              {
+                "display_url": "x.com/duet_VRC",
+                "end": 66,
+                "expanded_url": "https://x.com/duet_VRC",
+                "start": 43,
+                "url": "https://t.co/R9jXRQCPuG"
+              },
+              {
+                "display_url": "skeb.jp/@duet_",
+                "end": 110,
+                "expanded_url": "https://skeb.jp/@duet_",
+                "start": 87,
+                "url": "https://t.co/9j7jbpPHsG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/47188",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/47188",
+                "start": 0,
+                "url": "https://t.co/UFTyrog0eF"
+              }
+            ]
+          }
+        },
+        "id": "84002545",
+        "location": "JP",
+        "name": "デュエット@画集発売",
+        "pinned_tweet_id": "1862064268923039995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555877570020642822/8yvlz7W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18849,
+          "following_count": 4971,
+          "like_count": 64337,
+          "listed_count": 314,
+          "media_count": 4003,
+          "tweet_count": 46623
+        },
+        "url": "https://t.co/UFTyrog0eF",
+        "username": "duet_",
+        "verified": true
+      }
+    ]
+  }
+}

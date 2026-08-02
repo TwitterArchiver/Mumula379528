@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992502611782901874",
+    "created_at": "2025-11-23T16:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992638135080304735"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "日本",
+          "probability": 0.8742,
+          "start": 15,
+          "type": "Place"
+        },
+        {
+          "end": 31,
+          "normalized_text": "日本",
+          "probability": 0.8429,
+          "start": 30,
+          "type": "Place"
+        },
+        {
+          "end": 43,
+          "normalized_text": "中国",
+          "probability": 0.8834,
+          "start": 42,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1430863911889244167",
+          "start": 0,
+          "username": "airi_fact_555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992638135080304735",
+    "in_reply_to_user_id": "1430863911889244167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992502611782901874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@airi_fact_555 日本はとても可愛い国です。私は日本が大好きです。しかし中国はそんな発言をしていませんよ。これは事実ではありません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992502611782901874",
+        "created_at": "2025-11-23T16:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992638135080304735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "日本",
+              "probability": 0.8742,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "日本",
+              "probability": 0.8429,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "中国",
+              "probability": 0.8834,
+              "start": 42,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1430863911889244167",
+              "start": 0,
+              "username": "airi_fact_555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992638135080304735",
+        "in_reply_to_user_id": "1430863911889244167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992502611782901874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@airi_fact_555 日本はとても可愛い国です。私は日本が大好きです。しかし中国はそんな発言をしていませんよ。これは事実ではありません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430863911889244167",
+        "conversation_id": "1992502611782901874",
+        "created_at": "2025-11-23T07:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992502611782901874"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "中国国営新聞社",
+              "probability": 0.6638,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 45,
+              "normalized_text": "日本",
+              "probability": 0.5257,
+              "start": 44,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "話題のポスト ざっくりPOINT 国営中国新聞社が日本は既に代価を支払ったとする評論を発表 評論は圧力で高市総理の発言抑制か短命政権の可能性を指摘 SNSで批判強化を求めるコメントも多く投稿 詳細は動",
+              "display_url": "sn-jp.com/archives/258832",
+              "end": 103,
+              "expanded_url": "https://sn-jp.com/archives/258832",
+              "images": [
+                {
+                  "height": 557,
+                  "url": "https://pbs.twimg.com/news_img/1992477956120489984/kByovvDu?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992477956120489984/kByovvDu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "【悲報】中国国営新聞社「我々はすでに日本に大きな打撃を与えた。もうそろそろこの辺にしてやってもいいだろう",
+              "unwound_url": "https://sn-jp.com/archives/258832",
+              "url": "https://t.co/wK6Jn3J5Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992502611782901874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 183585,
+          "like_count": 9210,
+          "quote_count": 225,
+          "reply_count": 787,
+          "retweet_count": 1371
+        },
+        "reply_settings": "everyone",
+        "text": "草っ弱っ ﾀﾞｻ ━━━━(ﾟ∀ﾟ)━━━━!!\n\n【悲報】中国国営新聞社「我々はすでに日本に大きな打撃を与えた。もうそろそろこの辺にしてやってもいいだろう\n https://t.co/wK6Jn3J5Df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 49,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T12:06:08.000Z",
+        "description": "純粋に日本国🇯🇵が愛おしい　トランプ大統領を応援してます　故・安倍元総理を尊敬してます",
+        "id": "1430863911889244167",
+        "location": "USA",
+        "name": "@airi_fact_555",
+        "pinned_tweet_id": "1983004635414880566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811688615443124224/PYlO95y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106035,
+          "following_count": 37881,
+          "like_count": 462228,
+          "listed_count": 393,
+          "media_count": 19684,
+          "tweet_count": 70910
+        },
+        "username": "airi_fact_555",
+        "verified": true
+      }
+    ]
+  }
+}

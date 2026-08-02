@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2041887614534385907",
+    "created_at": "2026-04-08T15:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041895808292024681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041895808292024681",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041887614534385907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 来来往往影影绰绰，总会有人陪着阿宁，哪怕动荡着跌跌撞撞的向前…一直以来辛苦了…抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2041887614534385907",
+        "created_at": "2026-04-08T15:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041895808292024681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041895808292024681",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041887614534385907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 来来往往影影绰绰，总会有人陪着阿宁，哪怕动荡着跌跌撞撞的向前…一直以来辛苦了…抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998568087382274049",
+        "conversation_id": "2041887614534385907",
+        "created_at": "2026-04-08T14:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041887614534385907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041887614534385907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不相信爱 不相信恨 不相信人能依赖 不相信吻 不相信泪 不相信谁能一直在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2038672883392610773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 485,
+          "like_count": 2374,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 667
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "你们好呀！这里是阿宁！🥰 05｜温良宅女｜穿孔｜酗酒｜日番日漫｜焦虑症吃药治疗中｜欢迎互fo｜喜欢在评论区互动。高浓度上网★私信开放 可聊天",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2017988422754091208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 123,
+          "like_count": 9555,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 772
+        },
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2077918272914440571",
+    "created_at": "2026-07-18T11:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078449372078194999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078449372078194999",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077918272914440571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 封神榜了好好笑。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 297,
+        "media_key": "3_2077918270540451840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY_qGPbkAAfyLo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2077918272914440571",
+        "created_at": "2026-07-18T11:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078449372078194999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078449372078194999",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077918272914440571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 封神榜了好好笑。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077918270540451840"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2077918272914440571",
+        "created_at": "2026-07-17T00:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077918272914440571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkE6V4qV7K",
+              "end": 25,
+              "expanded_url": "https://x.com/ashasw114514/status/2077918272914440571/photo/1",
+              "media_key": "3_2077918270540451840",
+              "start": 2,
+              "url": "https://t.co/dkE6V4qV7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077918272914440571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17298,
+          "like_count": 223,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/dkE6V4qV7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@liberazioney_60\n小白华@Voidwushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "liberazioney_60"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "Voidwushi"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2077381953058480572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 676,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 3707,
+          "like_count": 9060,
+          "listed_count": 12,
+          "media_count": 754,
+          "tweet_count": 6519
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

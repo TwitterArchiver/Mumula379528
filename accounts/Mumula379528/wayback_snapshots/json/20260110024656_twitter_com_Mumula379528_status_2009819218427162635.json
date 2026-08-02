@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2009819218427162635",
+    "created_at": "2026-01-10T02:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T03:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009819218427162635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nffc/status/20…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/nffc/status/2009743229315424429",
+          "start": 55,
+          "url": "https://t.co/V7uhHXBZIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009819218427162635",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009743229315424429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "An utterly unacceptable and heartbreaking scoreline... https://t.co/V7uhHXBZIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2009743117281316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-QKt5NW0AACAVD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2009819218427162635",
+        "created_at": "2026-01-10T02:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T03:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009819218427162635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nffc/status/20…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/nffc/status/2009743229315424429",
+              "start": 55,
+              "url": "https://t.co/V7uhHXBZIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009819218427162635",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009743229315424429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "An utterly unacceptable and heartbreaking scoreline... https://t.co/V7uhHXBZIc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009743117281316864"
+          ]
+        },
+        "author_id": "39754653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2009743229315424429",
+        "created_at": "2026-01-09T21:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T22:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009743229315424429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eTe2yVP0m",
+              "end": 72,
+              "expanded_url": "https://x.com/NFFC/status/2009743229315424429/photo/1",
+              "media_key": "3_2009743117281316864",
+              "start": 49,
+              "url": "https://t.co/1eTe2yVP0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009743229315424429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17608,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "All square after the first period of extra-time. https://t.co/1eTe2yVP0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 418,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 439
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T13:56:14.000Z",
+        "description": "Wearing the Garibaldi with pride since 1865.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nottinghamforest.co.uk",
+                "end": 23,
+                "expanded_url": "https://www.nottinghamforest.co.uk",
+                "start": 0,
+                "url": "https://t.co/6qNXGBZIdR"
+              }
+            ]
+          }
+        },
+        "id": "39754653",
+        "location": "The City Ground",
+        "name": "Nottingham Forest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006664639560507392/SJjVvCjd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705254,
+          "following_count": 230,
+          "like_count": 3618,
+          "listed_count": 3196,
+          "media_count": 26861,
+          "tweet_count": 63840
+        },
+        "url": "https://t.co/6qNXGBZIdR",
+        "username": "NFFC",
+        "verified": true
+      }
+    ]
+  }
+}

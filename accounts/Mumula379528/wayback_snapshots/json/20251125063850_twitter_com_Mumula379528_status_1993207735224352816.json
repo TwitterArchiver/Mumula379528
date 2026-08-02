@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992505476282761525",
+    "created_at": "2025-11-25T06:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993207735224352816"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "福島",
+          "probability": 0.9068,
+          "start": 13,
+          "type": "Place"
+        },
+        {
+          "end": 61,
+          "normalized_text": "福島",
+          "probability": 0.8983,
+          "start": 60,
+          "type": "Place"
+        },
+        {
+          "end": 69,
+          "normalized_text": "日本",
+          "probability": 0.7255,
+          "start": 68,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503731672268693515",
+          "start": 0,
+          "username": "MUG27082015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993207735224352816",
+    "in_reply_to_user_id": "1503731672268693515",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992505476282761525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MUG27082015 福島の海産物の測定値がすべて正常だと本当に信じているのか……政治家の片言だけ信じているのか……福島の廃水放出は日本を含む環太平洋地域全体を傷つけることだ……悲しいことではないか……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1992505473292201984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bNK9SacAA371G.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992505476282761525",
+        "created_at": "2025-11-25T06:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993207735224352816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "福島",
+              "probability": 0.9068,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "福島",
+              "probability": 0.8983,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "日本",
+              "probability": 0.7255,
+              "start": 68,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503731672268693515",
+              "start": 0,
+              "username": "MUG27082015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993207735224352816",
+        "in_reply_to_user_id": "1503731672268693515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992505476282761525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MUG27082015 福島の海産物の測定値がすべて正常だと本当に信じているのか……政治家の片言だけ信じているのか……福島の廃水放出は日本を含む環太平洋地域全体を傷つけることだ……悲しいことではないか……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992505473292201984"
+          ]
+        },
+        "author_id": "1503731672268693515",
+        "conversation_id": "1992505476282761525",
+        "created_at": "2025-11-23T08:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992505476282761525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.7601,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUXvLD3zdL",
+              "end": 46,
+              "expanded_url": "https://x.com/MUG27082015/status/1992505476282761525/photo/1",
+              "media_key": "3_1992505473292201984",
+              "start": 23,
+              "url": "https://t.co/ZUXvLD3zdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992505476282761525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 1602410,
+          "like_count": 55997,
+          "quote_count": 158,
+          "reply_count": 370,
+          "retweet_count": 5108
+        },
+        "reply_settings": "everyone",
+        "text": "日本の飲食店\n今こそこれが\n必要じゃないか？ https://t.co/ZUXvLD3zdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "From China🇨🇳A philosopher and sociologist committed to objectivity, fairness, and independence, who enjoys painting and gaming in their free time.",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 68,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T13:56:14.000Z",
+        "description": "日本よ、日本人よ、世界の真ん中で咲き誇れ🌸天皇弥栄🇯🇵日本を豊かに、強く。日本保守党党員🇯🇵愛国心と愛犬猫心強めです🐕🐈反日の方は苦手ですので来ないでね🌻あんまりしつこいと噛むよ🇯🇵いいね、RPはあくまでメモ代わりです😌無言フォロー失礼致します🙇‍♂",
+        "id": "1503731672268693515",
+        "location": "江東区　日本",
+        "name": "楓🇺🇦🌻🇯🇵🌸",
+        "pinned_tweet_id": "1503739653597597697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504063886873423879/Gf24f1Ez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36717,
+          "following_count": 23446,
+          "like_count": 646960,
+          "listed_count": 195,
+          "media_count": 5189,
+          "tweet_count": 346651
+        },
+        "username": "MUG27082015",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2005068892822200339",
+    "created_at": "2025-12-28T05:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005152564015497578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945157928010604544",
+          "start": 0,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005152564015497578",
+    "in_reply_to_user_id": "1945157928010604544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005068892822200339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiTvTing 如果真的有一对“恋人”完整的走完了你所描述的全过程，那ta们毫无疑问是两位试图互相取暖的没有自我也没有心的人偶罢了，凑在一起试图找个慰藉的两具空壳，或许连什么是爱都理解不了，又何来恋爱一说呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2005068892822200339",
+        "created_at": "2025-12-28T05:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005152564015497578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945157928010604544",
+              "start": 0,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005152564015497578",
+        "in_reply_to_user_id": "1945157928010604544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005068892822200339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiTvTing 如果真的有一对“恋人”完整的走完了你所描述的全过程，那ta们毫无疑问是两位试图互相取暖的没有自我也没有心的人偶罢了，凑在一起试图找个慰藉的两具空壳，或许连什么是爱都理解不了，又何来恋爱一说呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2005068892822200339",
+        "created_at": "2025-12-28T00:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T01:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005068892822200339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005068892822200339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人把另一个人逼成精神病精神病再把另一个人逼成精神病然后两个精神病谈恋爱，这是恋爱不！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 133,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们来找我互fo",
+        "id": "1945157928010604544",
+        "location": "🚪52",
+        "name": "操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003555514010206211/Tk4wl8kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 127,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 246
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

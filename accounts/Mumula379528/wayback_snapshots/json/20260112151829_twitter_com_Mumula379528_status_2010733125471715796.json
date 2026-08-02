@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2010724979797787105",
+    "created_at": "2026-01-12T15:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010733125471715796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010733125471715796",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010724979797787105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 暮暮喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2010724979797787105",
+        "created_at": "2026-01-12T15:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010733125471715796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010733125471715796",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010724979797787105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 暮暮喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "2010724979797787105",
+        "created_at": "2026-01-12T14:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010724979797787105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010724979797787105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在任何一个三人行小团体里都像个电灯泡你们懂吗，我很崩溃，我讨厌任何形式的小团体，我讨好任何人都是无用功永远，不会有人和我的关系更上一层楼，大家都有自己的好朋友自己的小圈子，大家叫上谁都不会叫上我，我永远是unloveable的，我已经缺爱到别人夸我两句我就能自垫车费酒店去和大卫戴做爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 419,
+          "like_count": 1705,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 465
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用，不安会双取，匿名提问： https://t.co/qXcDn5CuS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 47,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 24,
+                "url": "https://t.co/qXcDn5CuS4"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪5.2",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 148,
+          "like_count": 26262,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2861
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}

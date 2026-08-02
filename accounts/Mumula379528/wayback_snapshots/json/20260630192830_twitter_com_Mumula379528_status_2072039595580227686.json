@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2072026106895782153",
+    "created_at": "2026-06-30T19:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072039595580227686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596798310785978369",
+          "start": 0,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072039595580227686",
+    "in_reply_to_user_id": "1596798310785978369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072026106895782153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeanormalppl 社恐犯了，不敢发言(我晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2072026106895782153",
+        "created_at": "2026-06-30T19:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072039595580227686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596798310785978369",
+              "start": 0,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072039595580227686",
+        "in_reply_to_user_id": "1596798310785978369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072026106895782153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeanormalppl 社恐犯了，不敢发言(我晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2072026106895782153",
+        "created_at": "2026-06-30T18:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072026106895782153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "a normal ppl’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1oKMv…",
+              "end": 25,
+              "expanded_url": "https://x.com/i/spaces/1oKMvvjabbzGQ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2072026108636323840/XQzozZDu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072026108636323840/XQzozZDu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 2,
+              "status": 200,
+              "title": "Happening now: 来",
+              "unwound_url": "https://twitter.com/i/spaces/1oKMvvjabbzGQ/peek",
+              "url": "https://t.co/b53YKPyJ2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072026106895782153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来 https://t.co/b53YKPyJ2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n亲爱的姐姐/一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2056805078389112878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 593,
+          "like_count": 2842,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc | 恋人：@XI2VANAS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "XI2VANAS"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "a normal ppl",
+        "pinned_tweet_id": "2069898187507425550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 727,
+          "like_count": 15981,
+          "listed_count": 6,
+          "media_count": 978,
+          "tweet_count": 20724
+        },
+        "url": "",
+        "username": "maybeanormalppl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,700 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10038865210",
+          "name": "Futbol Alemana (Bundesliga)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Soccer action from the German Bundesliga.",
+          "id": "10039036407",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039215494",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226215797784576",
+          "name": "Bayer 04 Leverkusen"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756521230667776",
+          "name": "Bundesliga"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226192859172864",
+          "name": "FC Bayern Munich"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226215797784576",
+          "name": "Bayer 04 Leverkusen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756521230667776",
+          "name": "Bundesliga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2032857225824174215",
+    "created_at": "2026-03-14T16:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032857967750689004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "180720589",
+          "start": 0,
+          "username": "bayer04fussball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032857967750689004",
+    "in_reply_to_user_id": "180720589",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032857225824174215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bayer04fussball Euer Sieg ist nichts als eine widerwärtige Schummelei! Die Bayern haben sich wacker geschlagen, aber eure Heimschiedsrichter haben alles ruiniert. Die verabscheuungswürdigste Mannschaft in der Geschichte der Bundesliga muss Leverkusen sein.😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2032857007804542976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYorZVacAAvc8g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10038865210",
+              "name": "Futbol Alemana (Bundesliga)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226215797784576",
+              "name": "Bayer 04 Leverkusen"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756521230667776",
+              "name": "Bundesliga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226215797784576",
+              "name": "Bayer 04 Leverkusen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756521230667776",
+              "name": "Bundesliga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2032857225824174215",
+        "created_at": "2026-03-14T16:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032857967750689004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "180720589",
+              "start": 0,
+              "username": "bayer04fussball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032857967750689004",
+        "in_reply_to_user_id": "180720589",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032857225824174215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bayer04fussball Euer Sieg ist nichts als eine widerwärtige Schummelei! Die Bayern haben sich wacker geschlagen, aber eure Heimschiedsrichter haben alles ruiniert. Die verabscheuungswürdigste Mannschaft in der Geschichte der Bundesliga muss Leverkusen sein.😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032857007804542976"
+          ]
+        },
+        "author_id": "180720589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10038865210",
+              "name": "Futbol Alemana (Bundesliga)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226215797784576",
+              "name": "Bayer 04 Leverkusen"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756521230667776",
+              "name": "Bundesliga"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226192859172864",
+              "name": "FC Bayern Munich"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226215797784576",
+              "name": "Bayer 04 Leverkusen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756521230667776",
+              "name": "Bundesliga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2032857225824174215",
+        "created_at": "2026-03-14T16:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032857225824174215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "B04FCB"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "Bayer04"
+            },
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "Bundesliga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vN3KpAfIk3",
+              "end": 92,
+              "expanded_url": "https://x.com/bayer04fussball/status/2032857225824174215/photo/1",
+              "media_key": "3_2032857007804542976",
+              "start": 69,
+              "url": "https://t.co/vN3KpAfIk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032857225824174215",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1204,
+          "like_count": 17,
+          "quote_count": 4,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "1:1 im Heimspiel gegen Bayern.\n\n#B04FCB 1:1 | #Bayer04 | #Bundesliga https://t.co/vN3KpAfIk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 420,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 523
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-20T09:05:50.000Z",
+        "description": "🏆 Deutscher Meister & Pokalsieger 2024 🏆 | EN @bayer04_en ES @bayer04_es | 📷 bayer04fussball |📱TikTok bayer04 https://t.co/olfe4cqRdg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "bayer04_en"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "bayer04_es"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/B04-Datenschutz",
+                "end": 133,
+                "expanded_url": "http://bit.ly/B04-Datenschutz",
+                "start": 110,
+                "url": "https://t.co/olfe4cqRdg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bayer04.de",
+                "end": 23,
+                "expanded_url": "http://www.bayer04.de",
+                "start": 0,
+                "url": "https://t.co/l81Rbu7L8q"
+              }
+            ]
+          }
+        },
+        "id": "180720589",
+        "location": "Leverkusen",
+        "name": "Bayer 04 Leverkusen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856974774984929280/tejXjVh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482105,
+          "following_count": 190,
+          "like_count": 21866,
+          "listed_count": 2525,
+          "media_count": 44616,
+          "tweet_count": 83213
+        },
+        "url": "https://t.co/l81Rbu7L8q",
+        "username": "bayer04fussball",
+        "verified": true
+      }
+    ]
+  }
+}

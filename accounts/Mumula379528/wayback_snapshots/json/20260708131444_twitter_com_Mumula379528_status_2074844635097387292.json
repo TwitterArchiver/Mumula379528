@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074844497780047988",
+    "created_at": "2026-07-08T13:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074844635097387292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007064047255207937",
+          "start": 0,
+          "username": "Ayin886030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074844635097387292",
+    "in_reply_to_user_id": "2007064047255207937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074844497780047988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayin886030 还没看！复习完去严肃补一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074844497780047988",
+        "created_at": "2026-07-08T13:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074844635097387292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007064047255207937",
+              "start": 0,
+              "username": "Ayin886030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074844635097387292",
+        "in_reply_to_user_id": "2007064047255207937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074844497780047988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayin886030 还没看！复习完去严肃补一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007064047255207937",
+        "conversation_id": "2074844497780047988",
+        "created_at": "2026-07-08T13:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074844497780047988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074844497780047988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼古喵喵挺好看的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 613,
+          "like_count": 3169,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:19:18.000Z",
+        "description": "称呼白华就好。她是前台。\n性少数友好 欢迎互fo交友\n¯\\_(ツ)_/¯\nhttps://t.co/Z0om3KWmNI\n💙喜欢@_Axer1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "_Axer1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ayin886030",
+                "end": 60,
+                "expanded_url": "https://t.me/ayin886030",
+                "start": 37,
+                "url": "https://t.co/Z0om3KWmNI"
+              }
+            ]
+          }
+        },
+        "id": "2007064047255207937",
+        "name": "birch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068336165028241408/u6qP9BJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 141,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Ayin886030",
+        "verified": false
+      }
+    ]
+  }
+}

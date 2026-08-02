@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226231404793857",
+          "name": "Nottingham Forest FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226231404793857",
+          "name": "Nottingham Forest FC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226245824815104",
+          "name": "West Ham United"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226245824815104",
+          "name": "West Ham United"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2008463553632887159",
+    "created_at": "2026-01-06T09:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008474392440012971"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 174,
+          "normalized_text": "West Ham",
+          "probability": 0.9028,
+          "start": 167,
+          "type": "Organization"
+        },
+        {
+          "end": 285,
+          "normalized_text": "NFFC",
+          "probability": 0.9294,
+          "start": 282,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 5,
+          "id": "39754653",
+          "start": 0,
+          "username": "NFFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008474392440012971",
+    "in_reply_to_user_id": "39754653",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008463553632887159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFFC Let's go and secure the win! Our defence has been outstanding, but our forwards haven't yet delivered performances worthy of their price tags. The match against West Ham could well determine whether we retain our top-flight status – let's get the job done decisively.Fighting NFFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2008176173679837184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G955lxaXAAA3oqA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226245824815104",
+              "name": "West Ham United"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226245824815104",
+              "name": "West Ham United"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008463553632887159",
+        "created_at": "2026-01-06T09:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008474392440012971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 174,
+              "normalized_text": "West Ham",
+              "probability": 0.9028,
+              "start": 167,
+              "type": "Organization"
+            },
+            {
+              "end": 285,
+              "normalized_text": "NFFC",
+              "probability": 0.9294,
+              "start": 282,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "39754653",
+              "start": 0,
+              "username": "NFFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008474392440012971",
+        "in_reply_to_user_id": "39754653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008463553632887159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFFC Let's go and secure the win! Our defence has been outstanding, but our forwards haven't yet delivered performances worthy of their price tags. The match against West Ham could well determine whether we retain our top-flight status – let's get the job done decisively.Fighting NFFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008176173679837184"
+          ]
+        },
+        "author_id": "39754653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231404793857",
+              "name": "Nottingham Forest FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008463553632887159",
+        "created_at": "2026-01-06T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008463553632887159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u675x2DUiE",
+              "end": 50,
+              "expanded_url": "https://x.com/NFFC/status/2008463553632887159/photo/1",
+              "media_key": "3_2008176173679837184",
+              "start": 27,
+              "url": "https://t.co/u675x2DUiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008463553632887159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4810,
+          "like_count": 235,
+          "quote_count": 8,
+          "reply_count": 24,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "Matchday in the capital. 👊 https://t.co/u675x2DUiE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 367,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 341
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-13T13:56:14.000Z",
+        "description": "Wearing the Garibaldi with pride since 1865.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nottinghamforest.co.uk",
+                "end": 23,
+                "expanded_url": "https://www.nottinghamforest.co.uk",
+                "start": 0,
+                "url": "https://t.co/6qNXGBZIdR"
+              }
+            ]
+          }
+        },
+        "id": "39754653",
+        "location": "The City Ground",
+        "name": "Nottingham Forest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006664639560507392/SJjVvCjd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704452,
+          "following_count": 231,
+          "like_count": 3618,
+          "listed_count": 3196,
+          "media_count": 26802,
+          "tweet_count": 63759
+        },
+        "url": "https://t.co/6qNXGBZIdR",
+        "username": "NFFC",
+        "verified": true
+      }
+    ]
+  }
+}

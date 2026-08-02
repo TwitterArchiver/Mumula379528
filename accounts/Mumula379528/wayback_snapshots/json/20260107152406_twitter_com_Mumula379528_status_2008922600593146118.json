@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Soccer action from the German Bundesliga.",
+          "id": "10039036407",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039215494",
+          "name": "Bundesliga Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226219404890113",
+          "name": "FC Schalke 04"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226219404890113",
+          "name": "FC Schalke 04"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774541768400897",
+          "name": "Manuel Neuer"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774541768400897",
+          "name": "Manuel Neuer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774541768400897",
+          "name": "Manuel Neuer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2008918405772951708",
+    "created_at": "2026-01-07T15:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008922600593146118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "296163037",
+          "start": 0,
+          "username": "s04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008922600593146118",
+    "in_reply_to_user_id": "296163037",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008918405772951708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s04 Anfrage .\nIch sehne mich danach, dass ein neuer Bergmann auftaucht, der sich weiterhin den Problemen stellt, die uns zu unserer früheren Stärke zurückführen werden…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2520,
+        "media_key": "3_2008918368456146944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EcnMaWAAAnknF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226219404890113",
+              "name": "FC Schalke 04"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226219404890113",
+              "name": "FC Schalke 04"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774541768400897",
+              "name": "Manuel Neuer"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774541768400897",
+              "name": "Manuel Neuer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774541768400897",
+              "name": "Manuel Neuer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008918405772951708",
+        "created_at": "2026-01-07T15:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008922600593146118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "296163037",
+              "start": 0,
+              "username": "s04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008922600593146118",
+        "in_reply_to_user_id": "296163037",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008918405772951708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s04 Anfrage .\nIch sehne mich danach, dass ein neuer Bergmann auftaucht, der sich weiterhin den Problemen stellt, die uns zu unserer früheren Stärke zurückführen werden…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008918368456146944"
+          ]
+        },
+        "author_id": "296163037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Soccer action from the German Bundesliga.",
+              "id": "10039036407",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039215494",
+              "name": "Bundesliga Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226219404890113",
+              "name": "FC Schalke 04"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226219404890113",
+              "name": "FC Schalke 04"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008918405772951708",
+        "created_at": "2026-01-07T15:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008918405772951708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "S04"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Wie durch Christina Rühl-Hamers angekündigt, hat der FC Schalke 04 zwei vom Land Nordrhein-Westfalen verbürgte Darlehen vorzeitig abgelöst.",
+              "display_url": "s04.de/Darlehen",
+              "end": 173,
+              "expanded_url": "https://s04.de/Darlehen",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2008917222828265472/SV-s5Yif?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008917222828265472/SV-s5Yif?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 150,
+              "status": 200,
+              "title": "FC Schalke 04 zahlt landesbesicherte Darlehen vorzeitig zurück",
+              "unwound_url": "https://schalke04.de/finanzen/fc-schalke-04-zahlt-landesbesicherte-darlehen-vorzeitig-zurueck/",
+              "url": "https://t.co/PoTOLOdB0s"
+            },
+            {
+              "display_url": "pic.x.com/GbuK7Ld8j0",
+              "end": 197,
+              "expanded_url": "https://x.com/s04/status/2008918405772951708/photo/1",
+              "media_key": "3_2008918368456146944",
+              "start": 174,
+              "url": "https://t.co/GbuK7Ld8j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008918405772951708",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1621,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Entlastung als wichtiger Schritt auf dem finanziellen Stabilisierungskurs: #S04 zahlt landesbesicherte Darlehen vorzeitig zurück 🔙\n\nMehr dazu hier\n↪️ https://t.co/PoTOLOdB0s https://t.co/GbuK7Ld8j0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 413,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 383
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-10T09:20:44.000Z",
+        "description": "Offizieller X-Account des FC Schalke 04. | 🇺🇸USA: @s04_us | English: @s04_en | Spanish: @s04_es | Japanisch: @s04_jp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 50,
+                "username": "s04_us"
+              },
+              {
+                "end": 76,
+                "start": 69,
+                "username": "s04_en"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "s04_es"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "username": "s04_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "schalke04.de",
+                "end": 23,
+                "expanded_url": "http://www.schalke04.de",
+                "start": 0,
+                "url": "https://t.co/yrhigfNuBz"
+              }
+            ]
+          }
+        },
+        "id": "296163037",
+        "location": "Gelsenkirchen, Deutschland",
+        "name": "FC Schalke 04",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767159485863276544/IL_nLxCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706952,
+          "following_count": 43,
+          "like_count": 12414,
+          "listed_count": 2629,
+          "media_count": 35743,
+          "tweet_count": 80863
+        },
+        "url": "https://t.co/yrhigfNuBz",
+        "username": "s04",
+        "verified": false
+      }
+    ]
+  }
+}

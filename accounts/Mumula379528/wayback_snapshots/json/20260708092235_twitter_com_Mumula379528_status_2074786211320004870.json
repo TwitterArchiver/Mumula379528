@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074513439276580888",
+    "created_at": "2026-07-08T09:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074786211320004870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1357864454029942784",
+          "start": 0,
+          "username": "returnsizer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074786211320004870",
+    "in_reply_to_user_id": "1357864454029942784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074513439276580888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@returnsizer 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074513439276580888",
+        "created_at": "2026-07-08T09:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074786211320004870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1357864454029942784",
+              "start": 0,
+              "username": "returnsizer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074786211320004870",
+        "in_reply_to_user_id": "1357864454029942784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074513439276580888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@returnsizer 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357864454029942784",
+        "conversation_id": "2074513439276580888",
+        "created_at": "2026-07-07T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074513439276580888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074513439276580888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想成为优秀到足以影响他人的人类音乐家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿我们彼此相爱。\n因此请毫无负担的和我说任何吧。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 610,
+          "like_count": 3136,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1040
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T01:31:36.000Z",
+        "description": "DM OK \nTheirs/Them/She/Hers\nCN/EN\nVOCALOID P/Bedroom Producer\nFrom Nekokostore @nekokostore\nContact:hedgehogsonik@outlook.com or nekokostore@kittymail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "nekokostore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorihim3.bandcamp.com",
+                "end": 23,
+                "expanded_url": "https://yorihim3.bandcamp.com",
+                "start": 0,
+                "url": "https://t.co/E5a9QIwK96"
+              }
+            ]
+          }
+        },
+        "id": "1357864454029942784",
+        "location": "勃立神社",
+        "name": "Rockflos123Σ(っ °Д °;)っ",
+        "pinned_tweet_id": "2063568619821531574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771183973567430656/y4ri0_GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 2173,
+          "like_count": 23091,
+          "listed_count": 5,
+          "media_count": 178,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/E5a9QIwK96",
+        "username": "returnsizer",
+        "verified": false
+      }
+    ]
+  }
+}

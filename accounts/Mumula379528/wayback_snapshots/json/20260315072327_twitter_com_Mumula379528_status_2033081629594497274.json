@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2032910834654130219",
+    "created_at": "2026-03-15T07:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033081629594497274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687060069056139265",
+          "start": 0,
+          "username": "DancerClas86815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033081629594497274",
+    "in_reply_to_user_id": "1687060069056139265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032910834654130219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DancerClas86815 每个人的表达方式是不同的，完全有可能哦～作为朋友，小早老师请根据他的日常行为模式去判断吧～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2032910834654130219",
+        "created_at": "2026-03-15T07:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033081629594497274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687060069056139265",
+              "start": 0,
+              "username": "DancerClas86815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033081629594497274",
+        "in_reply_to_user_id": "1687060069056139265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032910834654130219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DancerClas86815 每个人的表达方式是不同的，完全有可能哦～作为朋友，小早老师请根据他的日常行为模式去判断吧～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687060069056139265",
+        "conversation_id": "2032910834654130219",
+        "created_at": "2026-03-14T20:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T21:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032910834654130219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032910834654130219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下就是纯友谊朋友会在离开的当天早上抱着我脸贴脸舍不得我走吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 422,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 541
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T11:17:34.000Z",
+        "description": "记录碎碎念账号",
+        "id": "1687060069056139265",
+        "name": "少女地狱",
+        "pinned_tweet_id": "2021629317986627887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032911116637188096/D8nPiUfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 29,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 490
+        },
+        "username": "DancerClas86815",
+        "verified": false
+      }
+    ]
+  }
+}

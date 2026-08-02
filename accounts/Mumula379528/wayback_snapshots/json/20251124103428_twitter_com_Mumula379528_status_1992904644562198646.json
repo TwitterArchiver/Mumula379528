@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992574796690084235",
+    "created_at": "2025-11-24T10:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992904644562198646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2968468362",
+          "start": 0,
+          "username": "swim_shu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992904644562198646",
+    "in_reply_to_user_id": "2968468362",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992574796690084235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swim_shu This is a dangerous Chinese people! Please monitor and control him!😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992574796690084235",
+        "created_at": "2025-11-24T10:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992904644562198646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2968468362",
+              "start": 0,
+              "username": "swim_shu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992904644562198646",
+        "in_reply_to_user_id": "2968468362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992574796690084235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swim_shu This is a dangerous Chinese people! Please monitor and control him!😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2968468362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1992574796690084235",
+        "created_at": "2025-11-23T12:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992574796690084235"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "高市早苗",
+              "probability": 0.6043,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 16,
+              "normalized_text": "東京",
+              "probability": 0.9439,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 60,
+              "normalized_text": "日本",
+              "probability": 0.7727,
+              "start": 59,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/daihonyaku/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/daihonyaku/status/1992449787367727232",
+              "start": 91,
+              "url": "https://t.co/OFvrURyqpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992574796690084235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 2127049,
+          "like_count": 25540,
+          "quote_count": 110,
+          "reply_count": 152,
+          "retweet_count": 6764
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992449787367727232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「高市早苗が謝らないなら、俺は東京に行って日本人を殴るぞ。前にも殴ったことあるし」と発言していた中国人が、望遠鏡持参で日本に到着したようです。入国させるなよ...なぜ入国させた！？ https://t.co/OFvrURyqpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 65,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-09T07:38:38.000Z",
+        "description": "SHIMIZU Tomomi🇯🇵 民族漫画家 🐅絵本「私の身に起きたこと」 （季節社）漫画「命がけの証言」 「墓標なき草原 哀しみの記憶」（WAC）🐎#日本製を求めて。それぞれの民族、日本の文化伝統を守ることが大切。御用向きは suimi2u0201@gmail.com (受信専用) #SaveUyghurs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "日本製を求めて"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "tag": "SaveUyghurs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/tomomishimizu",
+                "end": 23,
+                "expanded_url": "https://note.com/tomomishimizu",
+                "start": 0,
+                "url": "https://t.co/DBHZr5Qtld"
+              }
+            ]
+          }
+        },
+        "id": "2968468362",
+        "location": "奈良 大和西大寺",
+        "name": "清水ともみ",
+        "pinned_tweet_id": "1940242121568788751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1123476212326850560/9eToo3w0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132449,
+          "following_count": 1935,
+          "like_count": 193648,
+          "listed_count": 670,
+          "media_count": 1841,
+          "tweet_count": 58344
+        },
+        "url": "https://t.co/DBHZr5Qtld",
+        "username": "swim_shu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1991845599956885863",
+    "created_at": "2025-11-22T20:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T21:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992332320276439313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754457653491941376",
+          "start": 0,
+          "username": "White_enst_"
+        },
+        {
+          "end": 23,
+          "id": "1894644240485109760",
+          "start": 13,
+          "username": "tsukise79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992332320276439313",
+    "in_reply_to_user_id": "1754457653491941376",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991845599956885863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@White_enst_ @tsukise79 So kawaii!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991845592075751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R1A0MaUAAgnWO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1991845599956885863",
+        "created_at": "2025-11-22T20:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992332320276439313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754457653491941376",
+              "start": 0,
+              "username": "White_enst_"
+            },
+            {
+              "end": 23,
+              "id": "1894644240485109760",
+              "start": 13,
+              "username": "tsukise79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992332320276439313",
+        "in_reply_to_user_id": "1754457653491941376",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991845599956885863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@White_enst_ @tsukise79 So kawaii!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991845592075751424"
+          ]
+        },
+        "author_id": "1754457653491941376",
+        "conversation_id": "1991845599956885863",
+        "created_at": "2025-11-21T12:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991845599956885863"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "桃李",
+              "probability": 0.5045,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKPfswjkpa",
+              "end": 32,
+              "expanded_url": "https://x.com/White_enst_/status/1991845599956885863/photo/1",
+              "media_key": "3_1991845592075751424",
+              "start": 9,
+              "url": "https://t.co/sKPfswjkpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991845599956885863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "クマクマ桃李💕🐻 https://t.co/sKPfswjkpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T10:51:26.000Z",
+        "description": "20↑/enst/twst/mhyk/3L/女体化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/AjT32ZFkV4hj…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/AjT32ZFkV4hjMp2gWVZS2xIEwRw2",
+                "start": 0,
+                "url": "https://t.co/Gb1j33U3Jv"
+              }
+            ]
+          }
+        },
+        "id": "1754457653491941376",
+        "location": "転載・AI学習✖︎",
+        "name": "シロ",
+        "pinned_tweet_id": "1778010138919780380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768801487680110592/x-X0kNkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 69,
+          "like_count": 2849,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/Gb1j33U3Jv",
+        "username": "White_enst_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T07:02:52.000Z",
+        "description": "エンジョイオタク 📮https://t.co/twrdjBHwBn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/co1e0a76e…",
+                "end": 33,
+                "expanded_url": "https://wavebox.me/wave/co1e0a76e8mom7p0/",
+                "start": 10,
+                "url": "https://t.co/twrdjBHwBn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/CcWSDmCxNWNO…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/CcWSDmCxNWNOiKiQFIZx05RVjEJ3",
+                "start": 0,
+                "url": "https://t.co/InPtVUbOmB"
+              }
+            ]
+          }
+        },
+        "id": "1894644240485109760",
+        "name": "月瀬",
+        "pinned_tweet_id": "1934185934674866360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940045794440065024/_VHuOjKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 57,
+          "like_count": 3715,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/InPtVUbOmB",
+        "username": "tsukise79",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2032953320726475246",
+    "created_at": "2026-03-15T07:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033085635293221150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871856668818227200",
+          "start": 0,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033085635293221150",
+    "in_reply_to_user_id": "1871856668818227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032953320726475246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEISEI_YUYU_EX 拥有药物是很幸福的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2032953320726475246",
+        "created_at": "2026-03-15T07:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033085635293221150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871856668818227200",
+              "start": 0,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033085635293221150",
+        "in_reply_to_user_id": "1871856668818227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032953320726475246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_EX 拥有药物是很幸福的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871856668818227200",
+        "conversation_id": "2032953320726475246",
+        "created_at": "2026-03-14T22:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032953320726475246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032953320726475246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该感谢药物\n药物让我认清了我早该认清的东西\n让我学到了我早该学到的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 423,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 542
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "OD&リスカㅣ語言學ㅣLanguage🇨🇳🇯🇵🇰🇷🇻🇳🇺🇸🇫🇷ㅣ04ㅣINFPㅣ特攝ㅣ動畫ㅣ寶可夢",
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2029990238769270840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016013527022977024/DX4QB-94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 398,
+          "like_count": 4154,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 552
+        },
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007642457455112350",
+    "created_at": "2026-01-04T14:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007826848970105094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        },
+        {
+          "end": 26,
+          "id": "1604466769938198528",
+          "start": 17,
+          "username": "eniwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007826848970105094",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007824185968783496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 @eniwwwww 所以最主要的是要认识到大多数人都只会陪你走一段路，到了不得不分别的时候就满怀祝福的目送对方离去并祝安好呀～太多人之所以伤心离别是因为把短暂的相遇看的太重啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007642457455112350",
+        "created_at": "2026-01-04T14:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007826848970105094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            },
+            {
+              "end": 26,
+              "id": "1604466769938198528",
+              "start": 17,
+              "username": "eniwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007826848970105094",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007824185968783496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 @eniwwwww 所以最主要的是要认识到大多数人都只会陪你走一段路，到了不得不分别的时候就满怀祝福的目送对方离去并祝安好呀～太多人之所以伤心离别是因为把短暂的相遇看的太重啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2007642457455112350",
+        "created_at": "2026-01-04T14:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007824185968783496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991927210899574785",
+              "start": 0,
+              "username": "Mumula379528"
+            },
+            {
+              "end": 23,
+              "id": "1604466769938198528",
+              "start": 14,
+              "username": "eniwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007824185968783496",
+        "in_reply_to_user_id": "1991927210899574785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007823125380243465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mumula379528 @eniwwwww 只不过人类啊实在是捉摸不透呢～ 人的情感有时可以掌控，有时就像是怪物，常常不能依照自己认定的价值观去进行🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 342,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 284
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "あぁ 闇はただ純粋で | サブ: @AmmieColl84391 | ❤️@chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "name": "Luke 鈴木 サクラみ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 2355,
+          "like_count": 39541,
+          "listed_count": 12,
+          "media_count": 446,
+          "tweet_count": 9962
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T13:21:18.000Z",
+        "description": "生活不需要那么多的意义和目的\n开心就好\n刷屏警告:\n大部分时间是附有表情包的流水账\n偶尔会有一些生活上的负面碎碎念\n正努力试图对抗虚无主义\n依然爱这个世界和所有人",
+        "id": "1604466769938198528",
+        "location": "互联网蛀虫",
+        "name": "eniw",
+        "pinned_tweet_id": "1605148260556869633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629869064456908807/q_9mUOyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 358,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 788,
+          "tweet_count": 1133
+        },
+        "username": "eniwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

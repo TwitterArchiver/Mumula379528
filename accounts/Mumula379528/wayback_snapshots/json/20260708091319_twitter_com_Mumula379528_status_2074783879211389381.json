@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2074783879211389381",
+    "created_at": "2026-07-08T09:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074783879211389381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takaichi_sanae…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/takaichi_sanae/status/2074709849494245881",
+          "start": 141,
+          "url": "https://t.co/22So0uXEvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074783879211389381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074709849494245881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私は邪教を支持して政治的資源を得ようとするような行為は好ましくありません。邪教を支持することは明らかに罪悪です。しかし、安倍晋三は間違いなく在任中に日本に貢献した人物であり、多面的な視点を持つ人物でした。いずれにせよ、私たちは亡くなった方を尊重すべきです。安らかにお過ごしください https://t.co/22So0uXEvf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074783879211389381",
+        "created_at": "2026-07-08T09:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074783879211389381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/2074709849494245881",
+              "start": 141,
+              "url": "https://t.co/22So0uXEvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074783879211389381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074709849494245881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私は邪教を支持して政治的資源を得ようとするような行為は好ましくありません。邪教を支持することは明らかに罪悪です。しかし、安倍晋三は間違いなく在任中に日本に貢献した人物であり、多面的な視点を持つ人物でした。いずれにせよ、私たちは亡くなった方を尊重すべきです。安らかにお過ごしください https://t.co/22So0uXEvf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074709849494245881",
+        "created_at": "2026-07-08T04:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074709849494245881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074709849494245881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "本日は、安倍晋三元総理の御命日です。\n4年前のあの日、令和4年7月８日。\n私にとっては生涯忘れることのできない日であり、今でも思い出すだけで胸が苦しくなります。\n\n総理就任から８か月余りが過ぎましたが、世界中のどこに行っても、また、日本を訪れる各国の首脳たちと会談をしても、安倍総理が日本国と日本人のために残してくださったご功績の大きさを実感する日々です。\n\n私は、長年、安倍総理と政治活動を共にしてきました。\nそれは、国家観を同じくしたこと、そして政治家としての魅力に加え、人間としての安倍総理に大きな魅力を感じたからにほかなりません。\n\n憲政史上最長の3188日間にわたり、日本国のリーダーとして、働き続けてこられた安倍総理。\n本日は、国内外の多くの皆様とともに、そのご功績を偲びたいと思います。\n\n御霊の安寧をお祈り申し上げます。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1410,
+          "impression_count": 1936814,
+          "like_count": 76962,
+          "quote_count": 551,
+          "reply_count": 2002,
+          "retweet_count": 10390
+        },
+        "reply_settings": "everyone",
+        "text": "本日は、安倍晋三元総理の御命日です。\n4年前のあの日、令和4年7月８日。\n私にとっては生涯忘れることのできない日であり、今でも思い出すだけで胸が苦しくなります。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 610,
+          "like_count": 3133,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1035
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "name": "高市早苗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2933734,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6460,
+          "media_count": 464,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true
+      }
+    ]
+  }
+}

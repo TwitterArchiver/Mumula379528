@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007789794064253422",
+    "created_at": "2026-01-04T12:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T13:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007793444098572474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1811255613269458944",
+          "start": 0,
+          "username": "amyo_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007793444098572474",
+    "in_reply_to_user_id": "1811255613269458944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007789794064253422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amyo_y もちろん！魅了される！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007789794064253422",
+        "created_at": "2026-01-04T12:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007793444098572474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1811255613269458944",
+              "start": 0,
+              "username": "amyo_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007793444098572474",
+        "in_reply_to_user_id": "1811255613269458944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007789794064253422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amyo_y もちろん！魅了される！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811255613269458944",
+        "conversation_id": "2007789794064253422",
+        "created_at": "2026-01-04T12:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007789794064253422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007789794064253422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可愛すぎないか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 329,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 271
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:26:13.000Z",
+        "description": "関東 20↑ 雑多垢",
+        "id": "1811255613269458944",
+        "name": "ふかひれ",
+        "pinned_tweet_id": "1983448868663738608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983865846264168448/7CwwKWTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 188,
+          "like_count": 5608,
+          "listed_count": 10,
+          "media_count": 126,
+          "tweet_count": 1715
+        },
+        "username": "amyo_y",
+        "verified": false
+      }
+    ]
+  }
+}

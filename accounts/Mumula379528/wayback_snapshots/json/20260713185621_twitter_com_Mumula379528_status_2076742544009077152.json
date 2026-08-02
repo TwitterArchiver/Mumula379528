@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2076740027829322021",
+    "created_at": "2026-07-13T18:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076742544009077152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019069006649667584",
+          "start": 0,
+          "username": "shunyuTvT"
+        },
+        {
+          "end": 19,
+          "id": "2075141863032737792",
+          "start": 11,
+          "username": "UXiaotu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076742544009077152",
+    "in_reply_to_user_id": "2019069006649667584",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076740027829322021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shunyuTvT @UXiaotu ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12776,
+        "height": 1280,
+        "media_key": "7_2076739956811452416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076739956811452416/pu/img/jMZbx8tpWnKNPGh-.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/320x568/jxcg9nT6HF46d6nP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/480x852/USz__AZuj7Pfl2rs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076739956811452416/pu/vid/avc1/720x1280/ozUYFg_AtkmFzioJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076739956811452416/pu/pl/7lB-Gn55d4zfwhrJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2076740027829322021",
+        "created_at": "2026-07-13T18:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076742544009077152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019069006649667584",
+              "start": 0,
+              "username": "shunyuTvT"
+            },
+            {
+              "end": 19,
+              "id": "2075141863032737792",
+              "start": 11,
+              "username": "UXiaotu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076742544009077152",
+        "in_reply_to_user_id": "2019069006649667584",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076740027829322021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shunyuTvT @UXiaotu ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076739956811452416"
+          ]
+        },
+        "author_id": "2019069006649667584",
+        "conversation_id": "2076740027829322021",
+        "created_at": "2026-07-13T18:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076740027829322021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2075141863032737792",
+              "start": 10,
+              "username": "UXiaotu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CG5gAUFWDR",
+              "end": 42,
+              "expanded_url": "https://x.com/shunyuTvT/status/2076740027829322021/video/1",
+              "media_key": "7_2076739956811452416",
+              "start": 19,
+              "url": "https://t.co/CG5gAUFWDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076740027829322021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对着水月犯错了😔😔\n@UXiaotu https://t.co/CG5gAUFWDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n卷卷@bdsmbratttt\n小白华@Ayin886030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "peipeimao"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "bdsmbratttt"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Ayin886030"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 653,
+          "like_count": 3496,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T15:22:28.000Z",
+        "description": "11年｜♀｜中抑中焦｜戒割中 偶尔od｜内向i人｜互关请私信！不过我会查成分｜更多属性指路置顶～｜🚪20（不聊黄不聊骚朋友圈无擦边没福利纯陪聊）｜我是@UXiaotu的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "UXiaotu"
+              }
+            ]
+          }
+        },
+        "id": "2019069006649667584",
+        "name": "瞬雨",
+        "pinned_tweet_id": "2075584264616485015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074263947969216512/ltPefXnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 184,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "shunyuTvT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T08:56:45.000Z",
+        "description": "hi我是小兔可以叫我Usagi！🐰🚪52 爱你也爱我…(｡ì _ í｡)",
+        "id": "2075141863032737792",
+        "name": "Xiaotu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075143165116559361/Euki-UME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 6,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "UXiaotu",
+        "verified": false
+      }
+    ]
+  }
+}

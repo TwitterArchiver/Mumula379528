@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2074722473711669277",
+    "created_at": "2026-07-08T09:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074786890755309732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1343383248148185089",
+          "start": 0,
+          "username": "KalaaaXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074786890755309732",
+    "in_reply_to_user_id": "1343383248148185089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074722473711669277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KalaaaXP 对某些爱国者的敏感肌表示无力吐槽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074722466073903106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrlFy3bgAIXXbe.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2074722473711669277",
+        "created_at": "2026-07-08T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074786890755309732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1343383248148185089",
+              "start": 0,
+              "username": "KalaaaXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074786890755309732",
+        "in_reply_to_user_id": "1343383248148185089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074722473711669277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KalaaaXP 对某些爱国者的敏感肌表示无力吐槽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074722466073903106"
+          ]
+        },
+        "author_id": "1343383248148185089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074722473711669277",
+        "created_at": "2026-07-08T05:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074722473711669277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upSA5phlfS",
+              "end": 28,
+              "expanded_url": "https://x.com/KalaaaXP/status/2074722473711669277/photo/1",
+              "media_key": "3_2074722466073903106",
+              "start": 5,
+              "url": "https://t.co/upSA5phlfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074722473711669277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1738,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在干啥… https://t.co/upSA5phlfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "你认为的我就是我，，我已经无法形成语言。\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n我是新教徒✝️愿我们彼此相爱。\n因此请毫无负担的和我说任何吧。",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2009674767444668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 610,
+          "like_count": 3136,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1041
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-28T02:28:28.000Z",
+        "description": "是半个福瑞/音游/日本語下手/Mandarin-普通话🉑 大阪で留学しています 这里主要发些日常向推文 相方→@CementXP 日常骂天骂地用推（无r18/仅熟人可过）→@mir_47389",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "CementXP"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "mir_47389"
+              }
+            ]
+          }
+        },
+        "id": "1343383248148185089",
+        "location": "大阪",
+        "name": "Kalaaa🎵",
+        "pinned_tweet_id": "2024665672534675588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652746097461440512/nQbr57xR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 477,
+          "like_count": 26694,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 4533
+        },
+        "url": "",
+        "username": "KalaaaXP",
+        "verified": false
+      }
+    ]
+  }
+}

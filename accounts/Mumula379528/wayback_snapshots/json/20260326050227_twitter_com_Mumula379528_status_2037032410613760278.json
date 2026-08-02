@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2036691098995990886",
+    "created_at": "2026-03-26T05:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037032410613760278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037032410613760278",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036691098995990886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 哎致幻剂。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2036691092729630720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPHwgtaEAA8yCe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2036691098995990886",
+        "created_at": "2026-03-26T05:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037032410613760278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037032410613760278",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036691098995990886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 哎致幻剂。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036691092729630720"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2036691098995990886",
+        "created_at": "2026-03-25T06:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036691098995990886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H8M0t4aZU",
+              "end": 37,
+              "expanded_url": "https://x.com/bui_tu46916/status/2036691098995990886/photo/1",
+              "media_key": "3_2036691092729630720",
+              "start": 14,
+              "url": "https://t.co/6H8M0t4aZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036691098995990886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16684,
+          "like_count": 209,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我们老钟的药理水平啊 https://t.co/6H8M0t4aZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 446,
+          "like_count": 2260,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 585
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2030828686929453530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 119,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 254
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

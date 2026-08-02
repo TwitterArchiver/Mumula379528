@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2004905422227173846",
+    "created_at": "2026-01-04T19:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T20:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007900774505103828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812304729432838144",
+          "start": 0,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007900774505103828",
+    "in_reply_to_user_id": "1812304729432838144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004905422227173846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimu420 超级桃李酱单推人驾到！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2004905094983327744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Laj7raIAAgUvK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2004905094974943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Laj7paMAAD_Bv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2004905422227173846",
+        "created_at": "2026-01-04T19:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007900774505103828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812304729432838144",
+              "start": 0,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007900774505103828",
+        "in_reply_to_user_id": "1812304729432838144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004905422227173846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimu420 超级桃李酱单推人驾到！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004905094983327744",
+            "3_2004905094974943232"
+          ]
+        },
+        "author_id": "1812304729432838144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004905422227173846",
+        "created_at": "2025-12-27T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004905422227173846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRgKEHJtDD",
+              "end": 78,
+              "expanded_url": "https://x.com/huimu420/status/2004905422227173846/photo/1",
+              "media_key": "3_2004905094983327744",
+              "start": 55,
+              "url": "https://t.co/TRgKEHJtDD"
+            },
+            {
+              "display_url": "pic.x.com/TRgKEHJtDD",
+              "end": 78,
+              "expanded_url": "https://x.com/huimu420/status/2004905422227173846/photo/1",
+              "media_key": "3_2004905094974943232",
+              "start": 55,
+              "url": "https://t.co/TRgKEHJtDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004905422227173846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我偶像梦幻祭属性。我真的很想和饿死妹互fo啊！为啥为啥我碰不到。想了半天还是不放我其他属性图了我老换。！ https://t.co/TRgKEHJtDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 345,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 304
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "＝回木｜负能↑｜日常碎碎念｜割手嗑药｜友跨顺女｜泛性恋  偏好流动｜不建政｜休学｜xp是正太萝莉和神职人员｜fo你是暗恋｜恋人是酷拉皮卡♡♡\n提问箱https://t.co/o2XkPNm1eQ\n家里人死完了再来骂我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 97,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 74,
+                "url": "https://t.co/o2XkPNm1eQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huimu420",
+                "end": 23,
+                "expanded_url": "https://t.me/huimu420",
+                "start": 0,
+                "url": "https://t.co/t5cTc4RiaK"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "我非常好相处找我玩！",
+        "name": "回木",
+        "pinned_tweet_id": "2004905422227173846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003894250279211008/NNLuh2TP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 399,
+          "like_count": 11775,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/t5cTc4RiaK",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

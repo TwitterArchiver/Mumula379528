@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992450081451397601",
+    "created_at": "2025-11-23T17:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992640475984216174"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "中国",
+          "probability": 0.8183,
+          "start": 39,
+          "type": "Place"
+        },
+        {
+          "end": 49,
+          "normalized_text": "日本",
+          "probability": 0.4989,
+          "start": 48,
+          "type": "Place"
+        },
+        {
+          "end": 89,
+          "normalized_text": "日本",
+          "probability": 0.8195,
+          "start": 88,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629270057439346688",
+          "start": 0,
+          "username": "tanakaseiji15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992640475984216174",
+    "in_reply_to_user_id": "1629270057439346688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992450081451397601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanakaseiji15 中日友好相処は非常に正しい方法である。残念ながら中国では多くの人が日本に対して過剰な敵意を抱いており、これは非常に不快な事柄である。しかし同時に、日本にも祖先が行った侵略戦争の事実を勇気を持って認め、誠実に向き合うことを望む。誠実な対応こそが全ての友好関係の基盤である。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1992450076422414336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aayb3boAAJx0Y.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992450081451397601",
+        "created_at": "2025-11-23T17:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992640475984216174"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "中国",
+              "probability": 0.8183,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "日本",
+              "probability": 0.4989,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "日本",
+              "probability": 0.8195,
+              "start": 88,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629270057439346688",
+              "start": 0,
+              "username": "tanakaseiji15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992640475984216174",
+        "in_reply_to_user_id": "1629270057439346688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992450081451397601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanakaseiji15 中日友好相処は非常に正しい方法である。残念ながら中国では多くの人が日本に対して過剰な敵意を抱いており、これは非常に不快な事柄である。しかし同時に、日本にも祖先が行った侵略戦争の事実を勇気を持って認め、誠実に向き合うことを望む。誠実な対応こそが全ての友好関係の基盤である。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992450076422414336"
+          ]
+        },
+        "author_id": "1629270057439346688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1992450081451397601",
+        "created_at": "2025-11-23T04:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992450081451397601"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "大阪",
+              "probability": 0.9738,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "中国",
+              "probability": 0.9546,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "日本",
+              "probability": 0.8272,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLOSY4618E",
+              "end": 87,
+              "expanded_url": "https://x.com/tanakaseiji15/status/1992450081451397601/photo/1",
+              "media_key": "3_1992450076422414336",
+              "start": 64,
+              "url": "https://t.co/TLOSY4618E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992450081451397601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 120978,
+          "like_count": 15985,
+          "quote_count": 55,
+          "reply_count": 183,
+          "retweet_count": 1843
+        },
+        "reply_settings": "everyone",
+        "text": "【大阪】中国人経営の民泊、中国人客の8割がキャンセル「中国と日本は仲良くして」\n\nざまぁ！見ろ！\n民泊なんか！\n潰れてしまえ！ https://t.co/TLOSY4618E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T00:00:39.000Z",
+        "description": "参政党爆裂支持！いつか参政党を与党に！そしていつか神谷宗幣@jinkamiyaを総理大臣に！参政党と共に日本を立て直す！次の衆院選で！参政党の躍進を心に誓います！トランプ大統領！復活で参政党が日本を取り戻す！@Tanakaseiji13 避難",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "jinkamiya"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Tanakaseiji13"
+              }
+            ]
+          }
+        },
+        "id": "1629270057439346688",
+        "name": "🟠🇯🇵爆裂大和魂🇯🇵🟠",
+        "pinned_tweet_id": "1987048014767399284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943246155199971329/g2MYOkVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42273,
+          "following_count": 29877,
+          "like_count": 31927,
+          "listed_count": 343,
+          "media_count": 4388,
+          "tweet_count": 15632
+        },
+        "username": "tanakaseiji15",
+        "verified": true
+      }
+    ]
+  }
+}

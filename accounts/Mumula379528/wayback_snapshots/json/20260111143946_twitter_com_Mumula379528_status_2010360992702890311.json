@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2010012079840018618",
+    "created_at": "2026-01-11T14:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010360992702890311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1811255613269458944",
+          "start": 0,
+          "username": "amyo_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010360992702890311",
+    "in_reply_to_user_id": "1811255613269458944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010012079840018618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amyo_y so cool！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2010012079840018618",
+        "created_at": "2026-01-11T14:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010360992702890311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1811255613269458944",
+              "start": 0,
+              "username": "amyo_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010360992702890311",
+        "in_reply_to_user_id": "1811255613269458944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010012079840018618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amyo_y so cool！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811255613269458944",
+        "conversation_id": "2010012079840018618",
+        "created_at": "2026-01-10T15:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010012079840018618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010012079840018618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近ウィッグセットがちょっとだけ上達法したのか、褒めて貰えたりする事が増えて私はニヤニヤが止まらんですよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 418,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 456
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:26:13.000Z",
+        "description": "関東 20↑ 雑多垢  写真載せるサブ▶︎@fuu__co_s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "fuu__co_s"
+              }
+            ]
+          }
+        },
+        "id": "1811255613269458944",
+        "name": "ふかひれ",
+        "pinned_tweet_id": "2008093776649363895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983865846264168448/7CwwKWTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 190,
+          "like_count": 5661,
+          "listed_count": 11,
+          "media_count": 127,
+          "tweet_count": 1738
+        },
+        "username": "amyo_y",
+        "verified": false
+      }
+    ]
+  }
+}

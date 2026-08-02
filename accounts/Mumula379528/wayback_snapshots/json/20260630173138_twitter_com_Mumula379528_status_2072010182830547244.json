@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2072001142649962944",
+    "created_at": "2026-06-30T17:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072010182830547244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072010182830547244",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072001142649962944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072001125637910528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME6C7vbcAA7gQA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072001125629440000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME6C7taMAANwfl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072001125642039296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HME6C7wacAA2Vj1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2072001142649962944",
+        "created_at": "2026-06-30T17:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072010182830547244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072010182830547244",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072001142649962944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072001125637910528",
+            "3_2072001125629440000",
+            "3_2072001125642039296"
+          ]
+        },
+        "author_id": "1926470312289304576",
+        "conversation_id": "2072001142649962944",
+        "created_at": "2026-06-30T16:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072001142649962944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A90zLv3N0y",
+              "end": 29,
+              "expanded_url": "https://x.com/raxx945/status/2072001142649962944/photo/1",
+              "media_key": "3_2072001125637910528",
+              "start": 6,
+              "url": "https://t.co/A90zLv3N0y"
+            },
+            {
+              "display_url": "pic.x.com/A90zLv3N0y",
+              "end": 29,
+              "expanded_url": "https://x.com/raxx945/status/2072001142649962944/photo/1",
+              "media_key": "3_2072001125629440000",
+              "start": 6,
+              "url": "https://t.co/A90zLv3N0y"
+            },
+            {
+              "display_url": "pic.x.com/A90zLv3N0y",
+              "end": 29,
+              "expanded_url": "https://x.com/raxx945/status/2072001142649962944/photo/1",
+              "media_key": "3_2072001125642039296",
+              "start": 6,
+              "url": "https://t.co/A90zLv3N0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072001142649962944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七月和谁？ https://t.co/A90zLv3N0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. \n亲爱的姐姐/一位天使:@peipeimao \n在整个世界中，爱最接近你。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 108,
+                "username": "peipeimao"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2056805078389112878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 593,
+          "like_count": 2830,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "404notfound｜Eng /中文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esinenard?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esinenard?igsh=NzNnZ3h2MTBuY2R5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8Oq3QcqJyS"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "location": "🚪88/520",
+        "name": "esinenard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045175559257530368/SrZQdhgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 90,
+          "like_count": 1251,
+          "listed_count": 7,
+          "media_count": 187,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/8Oq3QcqJyS",
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

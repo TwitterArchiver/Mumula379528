@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2033076790432825453",
+    "created_at": "2026-03-15T07:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T08:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033080179464220905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1676498668306804737",
+          "start": 0,
+          "username": "Xsammie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033080179464220905",
+    "in_reply_to_user_id": "1676498668306804737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033076790432825453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xsammie God will not grant salvation to a narrow-minded, selfish, and irrational person; unfortunately, you are one of them😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2033076790432825453",
+        "created_at": "2026-03-15T07:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033080179464220905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1676498668306804737",
+              "start": 0,
+              "username": "Xsammie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033080179464220905",
+        "in_reply_to_user_id": "1676498668306804737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033076790432825453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xsammie God will not grant salvation to a narrow-minded, selfish, and irrational person; unfortunately, you are one of them😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676498668306804737",
+        "conversation_id": "2033076790432825453",
+        "created_at": "2026-03-15T07:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033076790432825453"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Arsenal",
+              "probability": 0.971,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Jesus Christ",
+              "probability": 0.8676,
+              "start": 92,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Jesus",
+              "probability": 0.8225,
+              "start": 130,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033076790432825453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Arsenal winning the league is just a sign that the world is slowly coming to an end, accept Jesus Christ today, give your life to Jesus, tomorrow might be too late."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 422,
+          "like_count": 2207,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 540
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:50:17.000Z",
+        "description": "Shameless Football Banter • Agenda Merchant • Huge Liverpool Fan• Fueled By Your Tears • YNWA 🔴",
+        "id": "1676498668306804737",
+        "location": "Turn on notis 🔔",
+        "name": "Sammie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970189682261495808/7GY3QrF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15148,
+          "following_count": 595,
+          "like_count": 57331,
+          "listed_count": 50,
+          "media_count": 5831,
+          "tweet_count": 52603
+        },
+        "username": "Xsammie",
+        "verified": true
+      }
+    ]
+  }
+}

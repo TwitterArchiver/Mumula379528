@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2007134184717115733",
+    "created_at": "2026-01-02T18:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T19:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007161468635226507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "nimasilehiahia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007161468635226507",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007134184717115733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nimasilehiahia 个人认为是11号～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007134184717115733].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007134184717115733",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007134184717115733"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2007134184717115733",
+        "created_at": "2026-01-02T18:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T19:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007161468635226507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "nimasilehiahia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007161468635226507",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007134184717115733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nimasilehiahia 个人认为是11号～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 272,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 201
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "我真的是照片本人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "讨厌的人死了爹妈",
+        "pinned_tweet_id": "2006271335451017633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006271833587486720/JdqbtqJM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11177,
+          "following_count": 1034,
+          "like_count": 20021,
+          "listed_count": 22,
+          "media_count": 1429,
+          "tweet_count": 12672
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "nimasilehiahia",
+        "verified": false
+      }
+    ]
+  }
+}

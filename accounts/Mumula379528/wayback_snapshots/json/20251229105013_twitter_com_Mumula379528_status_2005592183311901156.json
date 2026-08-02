@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2005575439532822877",
+    "created_at": "2025-12-29T10:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T11:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005592183311901156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1811255613269458944",
+          "start": 0,
+          "username": "amyo_y"
+        },
+        {
+          "end": 23,
+          "id": "1269261136731361282",
+          "start": 8,
+          "username": "pataphoto_rila"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005592183311901156",
+    "in_reply_to_user_id": "1811255613269458944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005575439532822877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amyo_y @pataphoto_rila so cute……聖なる天使のように🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3240,
+        "media_key": "3_2005575428128505857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9U8OdPaAAEiUMk.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2005575439532822877",
+        "created_at": "2025-12-29T10:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T11:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005592183311901156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1811255613269458944",
+              "start": 0,
+              "username": "amyo_y"
+            },
+            {
+              "end": 23,
+              "id": "1269261136731361282",
+              "start": 8,
+              "username": "pataphoto_rila"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005592183311901156",
+        "in_reply_to_user_id": "1811255613269458944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005575439532822877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amyo_y @pataphoto_rila so cute……聖なる天使のように🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005575428128505857"
+          ]
+        },
+        "author_id": "1811255613269458944",
+        "conversation_id": "2005575439532822877",
+        "created_at": "2025-12-29T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005575439532822877"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "真白友也",
+              "probability": 0.8909,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1269261136731361282",
+              "start": 29,
+              "username": "pataphoto_rila"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4G1eD6b3VU",
+              "end": 68,
+              "expanded_url": "https://x.com/amyo_y/status/2005575439532822877/photo/1",
+              "media_key": "3_2005575428128505857",
+              "start": 45,
+              "url": "https://t.co/4G1eD6b3VU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005575439532822877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "cos.enst!!    真白友也🐰Ha/Lo\n\n📸▶︎@pataphoto_rila https://t.co/4G1eD6b3VU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2004106135306228155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 184,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:26:13.000Z",
+        "description": "関東 20↑ 雑多垢",
+        "id": "1811255613269458944",
+        "name": "ふかひれ",
+        "pinned_tweet_id": "1983448868663738608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983865846264168448/7CwwKWTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 192,
+          "like_count": 5603,
+          "listed_count": 9,
+          "media_count": 126,
+          "tweet_count": 1700
+        },
+        "username": "amyo_y",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T13:33:47.000Z",
+        "description": "28⤴関東のコスプレカメラマン🚹\nリラックマと氷鷹北斗さんとReol氏大好き！\nコスプレ撮影のご依頼はDMまで📸https://t.co/OfwofKSqOM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/pataphoto_ri…",
+                "end": 79,
+                "expanded_url": "https://cos.guide/i/pataphoto_rila",
+                "start": 56,
+                "url": "https://t.co/OfwofKSqOM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pataphotocos",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/pataphotocos",
+                "start": 0,
+                "url": "https://t.co/X0jnijHTIu"
+              }
+            ]
+          }
+        },
+        "id": "1269261136731361282",
+        "location": "関東",
+        "name": "ぱたぱー✨🎤",
+        "pinned_tweet_id": "1906661985288081706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615644190419091457/9d6E81IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 559,
+          "like_count": 16766,
+          "listed_count": 13,
+          "media_count": 866,
+          "tweet_count": 6735
+        },
+        "url": "https://t.co/X0jnijHTIu",
+        "username": "pataphoto_rila",
+        "verified": false
+      }
+    ]
+  }
+}

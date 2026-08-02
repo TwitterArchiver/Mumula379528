@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992211124033572943",
+    "created_at": "2025-11-24T05:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992820767512527055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1152253310855860224",
+          "start": 0,
+          "username": "sui72381132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992820767512527055",
+    "in_reply_to_user_id": "1152253310855860224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992211124033572943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sui72381132 なぜ問題を外部に帰するのだろうか？人が外部に友人を求めるなら、まず自分の悪癖を改め、過ちを認めるべきではないだろうか？平和を語る際に他人に優先的に要求しながら、自らの過ちには口を閉ざすことは、個人レベルでも国家レベルでも、共に生きる道ではない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992211124033572943",
+        "created_at": "2025-11-24T05:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992820767512527055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1152253310855860224",
+              "start": 0,
+              "username": "sui72381132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992820767512527055",
+        "in_reply_to_user_id": "1152253310855860224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992211124033572943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sui72381132 なぜ問題を外部に帰するのだろうか？人が外部に友人を求めるなら、まず自分の悪癖を改め、過ちを認めるべきではないだろうか？平和を語る際に他人に優先的に要求しながら、自らの過ちには口を閉ざすことは、個人レベルでも国家レベルでも、共に生きる道ではない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152253310855860224",
+        "conversation_id": "1992211124033572943",
+        "created_at": "2025-11-22T12:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992211124033572943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "中国",
+              "probability": 0.9411,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "中国",
+              "probability": 0.6298,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 104,
+              "normalized_text": "日本",
+              "probability": 0.6324,
+              "start": 103,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "中国",
+              "probability": 0.7058,
+              "start": 111,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "日本",
+              "probability": 0.6552,
+              "start": 126,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992211124033572943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 575,
+          "impression_count": 681092,
+          "like_count": 25408,
+          "quote_count": 159,
+          "reply_count": 259,
+          "retweet_count": 4556
+        },
+        "reply_settings": "everyone",
+        "text": "今回、中国がヤバい国というのは嫌ってほど周知された訳だけど、中国側としては圧力かけてこの機に日本抑えつけて力関係をはっきりさせたいんだろうからまだ行動原理は分かるんよ。\n\n一番トチ狂ってると思うのは『必死に日本叩きしながら中国の横暴は見て見ぬふりしてる日本の左派界隈』なんだよなぁ…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "",
+        "id": "1991927210899574785",
+        "name": "Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 61,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-19T16:26:11.000Z",
+        "description": "まあどうせ生きるなら楽しくいこうか",
+        "id": "1152253310855860224",
+        "name": "水月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433564620090863617/S2r5kUFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6542,
+          "following_count": 1466,
+          "like_count": 66275,
+          "listed_count": 84,
+          "media_count": 3849,
+          "tweet_count": 20119
+        },
+        "username": "sui72381132",
+        "verified": false
+      }
+    ]
+  }
+}

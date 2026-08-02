@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "1992934438364454990",
+    "created_at": "2025-11-25T09:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T10:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993255159175270890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1393543915781836802",
+          "start": 0,
+          "username": "pipipi_oxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993255159175270890",
+    "in_reply_to_user_id": "1393543915781836802",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992934438364454990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pipipi_oxu so kawaii……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992934427509542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hTTYRaUAAdDHx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "1992934438364454990",
+        "created_at": "2025-11-25T09:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993255159175270890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1393543915781836802",
+              "start": 0,
+              "username": "pipipi_oxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993255159175270890",
+        "in_reply_to_user_id": "1393543915781836802",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992934438364454990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pipipi_oxu so kawaii……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992934427509542912"
+          ]
+        },
+        "author_id": "1393543915781836802",
+        "conversation_id": "1992934438364454990",
+        "created_at": "2025-11-24T12:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992934438364454990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvtBzghWJO",
+              "end": 42,
+              "expanded_url": "https://x.com/pipipi_oxu/status/1992934438364454990/photo/1",
+              "media_key": "3_1992934427509542912",
+              "start": 19,
+              "url": "https://t.co/jvtBzghWJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992934438364454990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 17341,
+          "like_count": 1744,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "堕天使＆ベリホワありがとうの再掲🖤🤍 https://t.co/jvtBzghWJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "From China🇨🇳A philosopher and sociologist committed to objectivity, fairness, and independence, who enjoys painting and gaming in their free time.",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T12:29:05.000Z",
+        "description": "20↑🦄 奏汰とこはくとユメと女装とにょたと照れ顔が好き🤍大文字でも小文字でも良い💌→https://t.co/jaKPcCLQnm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pipipi_enst?t=…",
+                "end": 66,
+                "expanded_url": "https://marshmallow-qa.com/pipipi_enst?t=NtzisL&utm_medium=url_text&utm_source=promotion",
+                "start": 43,
+                "url": "https://t.co/jaKPcCLQnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pipipiyuyu",
+                "end": 23,
+                "expanded_url": "https://lit.link/pipipiyuyu",
+                "start": 0,
+                "url": "https://t.co/Ik6eBXQaar"
+              }
+            ]
+          }
+        },
+        "id": "1393543915781836802",
+        "name": "ゅゅ✧₊🐬໒꒱",
+        "pinned_tweet_id": "1967559276651770286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179814756159488/LksRZu1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 181,
+          "like_count": 5994,
+          "listed_count": 22,
+          "media_count": 576,
+          "tweet_count": 6696
+        },
+        "url": "https://t.co/Ik6eBXQaar",
+        "username": "pipipi_oxu",
+        "verified": false
+      }
+    ]
+  }
+}

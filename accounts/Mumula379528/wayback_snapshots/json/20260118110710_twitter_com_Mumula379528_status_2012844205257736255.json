@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2012844104552702320",
+    "created_at": "2026-01-18T11:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T12:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012844205257736255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1622226629136367674",
+          "start": 0,
+          "username": "kexuejiazhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012844205257736255",
+    "in_reply_to_user_id": "1622226629136367674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012844104552702320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexuejiazhuang 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2012844104552702320",
+        "created_at": "2026-01-18T11:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012844205257736255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1622226629136367674",
+              "start": 0,
+              "username": "kexuejiazhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012844205257736255",
+        "in_reply_to_user_id": "1622226629136367674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012844104552702320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexuejiazhuang 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622226629136367674",
+        "conversation_id": "2012844104552702320",
+        "created_at": "2026-01-18T11:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012844104552702320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012844104552702320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个特别喜欢的博主也是橄榄皮，她特别漂亮！我心里感觉好受多了，感觉橄榄皮也没有那么坏啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "A researcher in philosophy and sociology ,dedicated to objectivity, fairness, and independence. Enjoys painting and gaming in my free time.I love Tori Himemiya",
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2007109838531383598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 434,
+          "like_count": 2162,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 513
+        },
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T13:32:39.000Z",
+        "description": "此号起到一个墓碑的作用，不安会双取，匿名提问： https://t.co/qXcDn5CuS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 47,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 24,
+                "url": "https://t.co/qXcDn5CuS4"
+              }
+            ]
+          }
+        },
+        "id": "1622226629136367674",
+        "location": "🚪52",
+        "name": "给我寿司吧🍣",
+        "pinned_tweet_id": "2007050446779859050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004605957251461120/N8tiWvTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 180,
+          "like_count": 29546,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3221
+        },
+        "username": "kexuejiazhuang",
+        "verified": false
+      }
+    ]
+  }
+}
