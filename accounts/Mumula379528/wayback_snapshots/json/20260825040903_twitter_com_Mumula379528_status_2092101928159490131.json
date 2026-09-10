@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2091974519804355040",
+    "created_at": "2026-08-25T04:09:03.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T05:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092101928159490131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595700376203771904",
+          "start": 0,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092101928159490131",
+    "in_reply_to_user_id": "1595700376203771904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091974519804355040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user88881102 是的，ta已做好接受后果的准备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2091974519804355040",
+        "created_at": "2026-08-25T04:09:03.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092101928159490131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595700376203771904",
+              "start": 0,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092101928159490131",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091974519804355040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user88881102 是的，ta已做好接受后果的准备"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595700376203771904",
+        "conversation_id": "2091974519804355040",
+        "created_at": "2026-08-24T19:42:47.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091974519804355040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091974519804355040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1348,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "不必报复，ta知道我是ta最真诚的朋友，而ta却毁了这一切，这就足够了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n一位不太守戒的新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n小白华@wushibirch8964\n笨蛋回木@huimu420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "peipeimao"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "wushibirch8964"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "huimu420"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092101928159490131",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2078383517986423056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991927210899574785/1774892739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 681,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cllKb",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cllKb",
+                "start": 0,
+                "url": "https://t.co/iAm7icHPSY"
+              }
+            ]
+          }
+        },
+        "id": "1595700376203771904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091974519804355040",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595700376203771904/1698444661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 3674,
+          "like_count": 6238,
+          "listed_count": 7,
+          "media_count": 633,
+          "tweet_count": 3767
+        },
+        "url": "https://t.co/iAm7icHPSY",
+        "username": "user88881102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

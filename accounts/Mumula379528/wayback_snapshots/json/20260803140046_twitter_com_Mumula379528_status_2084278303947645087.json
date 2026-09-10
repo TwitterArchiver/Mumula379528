@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2084192322405937315",
+    "created_at": "2026-08-03T14:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084278303947645087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007064047255207937",
+          "start": 0,
+          "username": "wushibirch8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084278303947645087",
+    "in_reply_to_user_id": "2007064047255207937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084192322405937315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wushibirch8964 给我吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2084192313719627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyJ3ebboAAcMtm.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2084192322405937315",
+        "created_at": "2026-08-03T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084278303947645087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007064047255207937",
+              "start": 0,
+              "username": "wushibirch8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084278303947645087",
+        "in_reply_to_user_id": "2007064047255207937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084192322405937315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushibirch8964 给我吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084192313719627776"
+          ]
+        },
+        "author_id": "2007064047255207937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084192322405937315",
+        "created_at": "2026-08-03T08:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084192322405937315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwlTNlEu0w",
+              "end": 28,
+              "expanded_url": "https://x.com/wushibirch8964/status/2084192322405937315/photo/1",
+              "media_key": "3_2084192313719627776",
+              "start": 5,
+              "url": "https://t.co/MwlTNlEu0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084192322405937315",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dxm🤤 https://t.co/MwlTNlEu0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n一位不太守戒的新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n小白华@wushibirch8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "peipeimao"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "wushibirch8964"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2078383517986423056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 693,
+          "like_count": 4288,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:19:18.000Z",
+        "description": "称呼白华就好。她是前台。\n性少数友好 欢迎互fo交友\n¯\\_(ツ)_/¯\n💙喜欢@_Axer1a\n❤️暮瓜@Mumula379528",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "_Axer1a"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Mumula379528"
+              }
+            ]
+          }
+        },
+        "id": "2007064047255207937",
+        "name": "birch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082883347962114048/sG8W5cnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 160,
+          "like_count": 1857,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "wushibirch8964",
+        "verified": false
+      }
+    ]
+  }
+}

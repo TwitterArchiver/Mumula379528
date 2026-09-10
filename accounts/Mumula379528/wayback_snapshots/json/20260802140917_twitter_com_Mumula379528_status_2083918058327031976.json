@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1991927210899574785",
+    "conversation_id": "2083918058327031976",
+    "created_at": "2026-08-02T14:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083918058327031976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chu_echooo/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/chu_echooo/status/2081031131655524455",
+          "start": 6,
+          "url": "https://t.co/unAQVtt6t1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918058327031976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081031131655524455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再见阿楚～ https://t.co/unAQVtt6t1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991927210899574785",
+        "conversation_id": "2083918058327031976",
+        "created_at": "2026-08-02T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083918058327031976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chu_echooo/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/chu_echooo/status/2081031131655524455",
+              "start": 6,
+              "url": "https://t.co/unAQVtt6t1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918058327031976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081031131655524455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再见阿楚～ https://t.co/unAQVtt6t1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2081031131655524455",
+        "created_at": "2026-07-25T14:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081031131655524455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081031131655524455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 46380,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "讣告\n很遗憾地通知，楚钊颖，于公元2026年7月25日，农历六月十二，自戕，终年二十四岁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-21T17:50:41.000Z",
+        "description": "重度失语中…\n互关想说说话可以私信暮暮，暮暮给你联系方式…。\n一位不太守戒的新教徒✝️愿世人彼此相爱。\n因此请毫无负担的和我说任何想说的吧，我将爱您。\n姐姐@peipeimao\n小白华@wushibirch8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "peipeimao"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "wushibirch8964"
+              }
+            ]
+          }
+        },
+        "id": "1991927210899574785",
+        "name": "暮暮Mumula",
+        "pinned_tweet_id": "2078383517986423056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991927381607768064/hs-ep5Ol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 693,
+          "like_count": 4290,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "Mumula379528",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/私信已关/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2081031131655524455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 100,
+          "like_count": 8146,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 2801
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}
